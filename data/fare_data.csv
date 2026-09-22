@@ -1,0 +1,993 @@
+date,origin,destination,airline,base_fare,taxes,total_fare,fare_class,availability,source
+2026-08-01,DEL,BOM,IndiGo,3762,677,4439,Economy Saver,36,Airline Portal
+2026-08-01,DEL,BOM,Air India,4122,742,4864,Economy,80,OTA
+2026-08-01,DEL,BOM,Akasa Air,3637,655,4292,Economy,34,Airline Portal
+2026-08-01,DEL,BOM,SpiceJet,3796,683,4479,Economy Saver,33,OTA
+2026-08-01,DEL,BLR,IndiGo,4664,840,5504,Economy,25,OTA
+2026-08-01,DEL,BLR,Air India,4689,844,5533,Economy,48,Airline Portal
+2026-08-01,DEL,BLR,Akasa Air,4119,741,4860,Economy Saver,49,OTA
+2026-08-01,DEL,BLR,SpiceJet,4263,767,5030,Economy Saver,73,Airline Portal
+2026-08-01,DEL,HYD,IndiGo,3443,620,4063,Economy,75,OTA
+2026-08-01,DEL,HYD,Air India,3846,692,4538,Economy Saver,78,Airline Portal
+2026-08-01,DEL,HYD,Akasa Air,3133,564,3697,Economy,42,Airline Portal
+2026-08-01,DEL,HYD,SpiceJet,3413,614,4027,Economy,53,OTA
+2026-08-01,DEL,CCU,IndiGo,4377,788,5165,Economy Saver,25,OTA
+2026-08-01,DEL,CCU,Air India,4629,833,5462,Economy Saver,14,Airline Portal
+2026-08-01,DEL,CCU,Akasa Air,3907,703,4610,Economy,64,OTA
+2026-08-01,DEL,CCU,SpiceJet,4087,736,4823,Economy,46,Airline Portal
+2026-08-01,BOM,BLR,IndiGo,2766,498,3264,Economy Saver,56,OTA
+2026-08-01,BOM,BLR,Air India,3457,622,4079,Economy Saver,32,OTA
+2026-08-01,BOM,BLR,Akasa Air,3098,558,3656,Economy Saver,23,OTA
+2026-08-01,BOM,BLR,SpiceJet,2891,520,3411,Economy Saver,79,OTA
+2026-08-01,BOM,DEL,IndiGo,3954,712,4666,Economy Saver,33,Airline Portal
+2026-08-01,BOM,DEL,Air India,4116,741,4857,Economy,19,Airline Portal
+2026-08-01,BOM,DEL,Akasa Air,3995,719,4714,Economy Saver,13,OTA
+2026-08-01,BOM,DEL,SpiceJet,3669,660,4329,Economy Saver,75,Airline Portal
+2026-08-01,BLR,HYD,IndiGo,2608,469,3077,Economy Saver,48,Airline Portal
+2026-08-01,BLR,HYD,Air India,2854,514,3368,Economy Saver,5,OTA
+2026-08-01,BLR,HYD,Akasa Air,2828,509,3337,Economy,69,Airline Portal
+2026-08-01,BLR,HYD,SpiceJet,2478,446,2924,Economy,24,OTA
+2026-08-01,DEL,MAA,IndiGo,4526,815,5341,Economy,46,OTA
+2026-08-01,DEL,MAA,Air India,5085,915,6000,Economy Saver,44,Airline Portal
+2026-08-01,DEL,MAA,Akasa Air,4519,813,5332,Economy,15,OTA
+2026-08-01,DEL,MAA,SpiceJet,4390,790,5180,Economy,21,OTA
+2026-08-02,DEL,BOM,IndiGo,3878,698,4576,Economy Saver,72,OTA
+2026-08-02,DEL,BOM,Air India,4593,827,5420,Economy,44,OTA
+2026-08-02,DEL,BOM,Akasa Air,3965,714,4679,Economy Saver,61,OTA
+2026-08-02,DEL,BOM,SpiceJet,3566,642,4208,Economy,48,Airline Portal
+2026-08-02,DEL,BLR,IndiGo,4402,792,5194,Economy,5,Airline Portal
+2026-08-02,DEL,BLR,Air India,4681,843,5524,Economy,13,Airline Portal
+2026-08-02,DEL,BLR,Akasa Air,4146,746,4892,Economy,40,OTA
+2026-08-02,DEL,BLR,SpiceJet,3980,716,4696,Economy Saver,36,OTA
+2026-08-02,DEL,HYD,IndiGo,3387,610,3997,Economy,17,OTA
+2026-08-02,DEL,HYD,Air India,3771,679,4450,Economy Saver,11,Airline Portal
+2026-08-02,DEL,HYD,Akasa Air,3503,631,4134,Economy Saver,18,Airline Portal
+2026-08-02,DEL,HYD,SpiceJet,3267,588,3855,Economy Saver,22,OTA
+2026-08-02,DEL,CCU,IndiGo,4211,758,4969,Economy,14,OTA
+2026-08-02,DEL,CCU,Air India,4767,858,5625,Economy,11,Airline Portal
+2026-08-02,DEL,CCU,Akasa Air,4298,774,5072,Economy,26,OTA
+2026-08-02,DEL,CCU,SpiceJet,3753,676,4429,Economy Saver,12,Airline Portal
+2026-08-02,BOM,BLR,IndiGo,2978,536,3514,Economy Saver,63,OTA
+2026-08-02,BOM,BLR,Air India,3513,632,4145,Economy Saver,24,Airline Portal
+2026-08-02,BOM,BLR,Akasa Air,3151,567,3718,Economy,79,Airline Portal
+2026-08-02,BOM,BLR,SpiceJet,2575,464,3039,Economy,79,OTA
+2026-08-02,BOM,DEL,IndiGo,4219,759,4978,Economy,12,Airline Portal
+2026-08-02,BOM,DEL,Air India,4150,747,4897,Economy,35,OTA
+2026-08-02,BOM,DEL,Akasa Air,4067,732,4799,Economy,79,Airline Portal
+2026-08-02,BOM,DEL,SpiceJet,3677,662,4339,Economy Saver,38,Airline Portal
+2026-08-02,BLR,HYD,IndiGo,2747,494,3241,Economy,38,OTA
+2026-08-02,BLR,HYD,Air India,3129,563,3692,Economy Saver,63,OTA
+2026-08-02,BLR,HYD,Akasa Air,2958,532,3490,Economy,6,OTA
+2026-08-02,BLR,HYD,SpiceJet,2647,476,3123,Economy,14,Airline Portal
+2026-08-02,DEL,MAA,IndiGo,4350,783,5133,Economy Saver,13,Airline Portal
+2026-08-02,DEL,MAA,Air India,4722,850,5572,Economy Saver,74,OTA
+2026-08-02,DEL,MAA,Akasa Air,4517,813,5330,Economy,75,OTA
+2026-08-02,DEL,MAA,SpiceJet,3983,717,4700,Economy,38,Airline Portal
+2026-08-03,DEL,BOM,IndiGo,4214,759,4973,Economy,39,OTA
+2026-08-03,DEL,BOM,Air India,4513,812,5325,Economy Saver,31,OTA
+2026-08-03,DEL,BOM,Akasa Air,3781,681,4462,Economy,16,OTA
+2026-08-03,DEL,BOM,SpiceJet,3527,635,4162,Economy,47,Airline Portal
+2026-08-03,DEL,BLR,IndiGo,4456,802,5258,Economy,61,OTA
+2026-08-03,DEL,BLR,Air India,4740,853,5593,Economy,24,Airline Portal
+2026-08-03,DEL,BLR,Akasa Air,4446,800,5246,Economy,60,Airline Portal
+2026-08-03,DEL,BLR,SpiceJet,4115,741,4856,Economy,50,Airline Portal
+2026-08-03,DEL,HYD,IndiGo,3665,660,4325,Economy,50,OTA
+2026-08-03,DEL,HYD,Air India,4009,722,4731,Economy,35,Airline Portal
+2026-08-03,DEL,HYD,Akasa Air,3610,650,4260,Economy,57,Airline Portal
+2026-08-03,DEL,HYD,SpiceJet,3488,628,4116,Economy Saver,57,Airline Portal
+2026-08-03,DEL,CCU,IndiGo,4406,793,5199,Economy,53,Airline Portal
+2026-08-03,DEL,CCU,Air India,4489,808,5297,Economy,63,OTA
+2026-08-03,DEL,CCU,Akasa Air,4242,764,5006,Economy,33,Airline Portal
+2026-08-03,DEL,CCU,SpiceJet,3885,699,4584,Economy Saver,40,Airline Portal
+2026-08-03,BOM,BLR,IndiGo,2980,536,3516,Economy Saver,70,OTA
+2026-08-03,BOM,BLR,Air India,3501,630,4131,Economy Saver,8,Airline Portal
+2026-08-03,BOM,BLR,Akasa Air,2843,512,3355,Economy,79,OTA
+2026-08-03,BOM,BLR,SpiceJet,2854,514,3368,Economy Saver,49,OTA
+2026-08-03,BOM,DEL,IndiGo,4073,733,4806,Economy,54,Airline Portal
+2026-08-03,BOM,DEL,Air India,4489,808,5297,Economy Saver,5,Airline Portal
+2026-08-03,BOM,DEL,Akasa Air,3681,663,4344,Economy Saver,45,Airline Portal
+2026-08-03,BOM,DEL,SpiceJet,3653,658,4311,Economy Saver,57,OTA
+2026-08-03,BLR,HYD,IndiGo,2761,497,3258,Economy,29,OTA
+2026-08-03,BLR,HYD,Air India,3047,548,3595,Economy,77,OTA
+2026-08-03,BLR,HYD,Akasa Air,2922,526,3448,Economy,43,OTA
+2026-08-03,BLR,HYD,SpiceJet,2774,499,3273,Economy Saver,64,OTA
+2026-08-03,DEL,MAA,IndiGo,4421,796,5217,Economy Saver,26,Airline Portal
+2026-08-03,DEL,MAA,Air India,5008,901,5909,Economy Saver,16,Airline Portal
+2026-08-03,DEL,MAA,Akasa Air,4256,766,5022,Economy,23,Airline Portal
+2026-08-03,DEL,MAA,SpiceJet,4172,751,4923,Economy,63,OTA
+2026-08-04,DEL,BOM,IndiGo,4170,751,4921,Economy,54,OTA
+2026-08-04,DEL,BOM,Air India,4242,764,5006,Economy,18,OTA
+2026-08-04,DEL,BOM,Akasa Air,4074,733,4807,Economy Saver,11,Airline Portal
+2026-08-04,DEL,BOM,SpiceJet,3611,650,4261,Economy Saver,22,OTA
+2026-08-04,DEL,BLR,IndiGo,4646,836,5482,Economy Saver,61,OTA
+2026-08-04,DEL,BLR,Air India,5022,904,5926,Economy Saver,25,OTA
+2026-08-04,DEL,BLR,Akasa Air,4544,818,5362,Economy,40,OTA
+2026-08-04,DEL,BLR,SpiceJet,4128,743,4871,Economy Saver,14,OTA
+2026-08-04,DEL,HYD,IndiGo,3499,630,4129,Economy Saver,74,Airline Portal
+2026-08-04,DEL,HYD,Air India,3724,670,4394,Economy Saver,24,Airline Portal
+2026-08-04,DEL,HYD,Akasa Air,3380,608,3988,Economy Saver,74,OTA
+2026-08-04,DEL,HYD,SpiceJet,3159,569,3728,Economy Saver,54,Airline Portal
+2026-08-04,DEL,CCU,IndiGo,4465,804,5269,Economy Saver,66,Airline Portal
+2026-08-04,DEL,CCU,Air India,4579,824,5403,Economy Saver,58,Airline Portal
+2026-08-04,DEL,CCU,Akasa Air,4014,723,4737,Economy Saver,67,Airline Portal
+2026-08-04,DEL,CCU,SpiceJet,4038,727,4765,Economy Saver,26,OTA
+2026-08-04,BOM,BLR,IndiGo,3197,575,3772,Economy,55,Airline Portal
+2026-08-04,BOM,BLR,Air India,3281,591,3872,Economy,64,Airline Portal
+2026-08-04,BOM,BLR,Akasa Air,2885,519,3404,Economy Saver,32,OTA
+2026-08-04,BOM,BLR,SpiceJet,2977,536,3513,Economy Saver,40,OTA
+2026-08-04,BOM,DEL,IndiGo,3870,697,4567,Economy Saver,7,Airline Portal
+2026-08-04,BOM,DEL,Air India,4395,791,5186,Economy,13,Airline Portal
+2026-08-04,BOM,DEL,Akasa Air,4188,754,4942,Economy,30,Airline Portal
+2026-08-04,BOM,DEL,SpiceJet,3650,657,4307,Economy,65,Airline Portal
+2026-08-04,BLR,HYD,IndiGo,2763,497,3260,Economy Saver,37,OTA
+2026-08-04,BLR,HYD,Air India,3162,569,3731,Economy,25,OTA
+2026-08-04,BLR,HYD,Akasa Air,2516,453,2969,Economy Saver,78,OTA
+2026-08-04,BLR,HYD,SpiceJet,2775,500,3275,Economy,14,Airline Portal
+2026-08-04,DEL,MAA,IndiGo,4713,848,5561,Economy Saver,20,Airline Portal
+2026-08-04,DEL,MAA,Air India,4922,886,5808,Economy Saver,13,OTA
+2026-08-04,DEL,MAA,Akasa Air,4344,782,5126,Economy Saver,18,OTA
+2026-08-04,DEL,MAA,SpiceJet,4336,780,5116,Economy Saver,24,OTA
+2026-08-05,DEL,BOM,IndiGo,4115,741,4856,Economy Saver,73,OTA
+2026-08-05,DEL,BOM,Air India,4629,833,5462,Economy Saver,46,Airline Portal
+2026-08-05,DEL,BOM,Akasa Air,3791,682,4473,Economy Saver,62,Airline Portal
+2026-08-05,DEL,BOM,SpiceJet,3864,696,4560,Economy Saver,48,Airline Portal
+2026-08-05,DEL,BLR,IndiGo,4545,818,5363,Economy,67,Airline Portal
+2026-08-05,DEL,BLR,Air India,4867,876,5743,Economy Saver,40,OTA
+2026-08-05,DEL,BLR,Akasa Air,4464,804,5268,Economy,15,Airline Portal
+2026-08-05,DEL,BLR,SpiceJet,4280,770,5050,Economy,65,OTA
+2026-08-05,DEL,HYD,IndiGo,3383,609,3992,Economy,42,Airline Portal
+2026-08-05,DEL,HYD,Air India,3784,681,4465,Economy Saver,79,OTA
+2026-08-05,DEL,HYD,Akasa Air,3503,631,4134,Economy Saver,59,OTA
+2026-08-05,DEL,HYD,SpiceJet,3308,595,3903,Economy Saver,44,OTA
+2026-08-05,DEL,CCU,IndiGo,4422,796,5218,Economy,45,Airline Portal
+2026-08-05,DEL,CCU,Air India,4939,889,5828,Economy,29,Airline Portal
+2026-08-05,DEL,CCU,Akasa Air,4071,733,4804,Economy Saver,17,Airline Portal
+2026-08-05,DEL,CCU,SpiceJet,3899,702,4601,Economy,43,Airline Portal
+2026-08-05,BOM,BLR,IndiGo,2965,534,3499,Economy Saver,10,Airline Portal
+2026-08-05,BOM,BLR,Air India,3493,629,4122,Economy,67,Airline Portal
+2026-08-05,BOM,BLR,Akasa Air,3084,555,3639,Economy Saver,65,OTA
+2026-08-05,BOM,BLR,SpiceJet,2718,489,3207,Economy,37,OTA
+2026-08-05,BOM,DEL,IndiGo,3874,697,4571,Economy Saver,67,Airline Portal
+2026-08-05,BOM,DEL,Air India,4570,823,5393,Economy,24,Airline Portal
+2026-08-05,BOM,DEL,Akasa Air,4230,761,4991,Economy Saver,15,Airline Portal
+2026-08-05,BOM,DEL,SpiceJet,3905,703,4608,Economy Saver,33,OTA
+2026-08-05,BLR,HYD,IndiGo,2901,522,3423,Economy Saver,80,OTA
+2026-08-05,BLR,HYD,Air India,3210,578,3788,Economy,17,Airline Portal
+2026-08-05,BLR,HYD,Akasa Air,2710,488,3198,Economy,25,Airline Portal
+2026-08-05,BLR,HYD,SpiceJet,2454,442,2896,Economy,5,OTA
+2026-08-05,DEL,MAA,IndiGo,4679,842,5521,Economy Saver,42,Airline Portal
+2026-08-05,DEL,MAA,Air India,5082,915,5997,Economy Saver,63,Airline Portal
+2026-08-05,DEL,MAA,Akasa Air,4686,843,5529,Economy Saver,80,Airline Portal
+2026-08-05,DEL,MAA,SpiceJet,4281,771,5052,Economy,24,OTA
+2026-08-06,DEL,BOM,IndiGo,3989,718,4707,Economy,26,OTA
+2026-08-06,DEL,BOM,Air India,4680,842,5522,Economy Saver,61,Airline Portal
+2026-08-06,DEL,BOM,Akasa Air,3897,701,4598,Economy Saver,39,OTA
+2026-08-06,DEL,BOM,SpiceJet,3878,698,4576,Economy,60,OTA
+2026-08-06,DEL,BLR,IndiGo,4438,799,5237,Economy,34,Airline Portal
+2026-08-06,DEL,BLR,Air India,5197,935,6132,Economy Saver,78,Airline Portal
+2026-08-06,DEL,BLR,Akasa Air,4347,782,5129,Economy Saver,71,OTA
+2026-08-06,DEL,BLR,SpiceJet,4179,752,4931,Economy Saver,67,Airline Portal
+2026-08-06,DEL,HYD,IndiGo,3618,651,4269,Economy Saver,46,Airline Portal
+2026-08-06,DEL,HYD,Air India,3922,706,4628,Economy Saver,68,OTA
+2026-08-06,DEL,HYD,Akasa Air,3491,628,4119,Economy,63,Airline Portal
+2026-08-06,DEL,HYD,SpiceJet,3263,587,3850,Economy,56,Airline Portal
+2026-08-06,DEL,CCU,IndiGo,4409,794,5203,Economy Saver,57,Airline Portal
+2026-08-06,DEL,CCU,Air India,4604,829,5433,Economy Saver,61,Airline Portal
+2026-08-06,DEL,CCU,Akasa Air,4183,753,4936,Economy,41,OTA
+2026-08-06,DEL,CCU,SpiceJet,4055,730,4785,Economy,8,Airline Portal
+2026-08-06,BOM,BLR,IndiGo,3098,558,3656,Economy,75,OTA
+2026-08-06,BOM,BLR,Air India,3541,637,4178,Economy,64,Airline Portal
+2026-08-06,BOM,BLR,Akasa Air,2882,519,3401,Economy Saver,42,OTA
+2026-08-06,BOM,BLR,SpiceJet,2897,521,3418,Economy Saver,36,OTA
+2026-08-06,BOM,DEL,IndiGo,4115,741,4856,Economy,70,Airline Portal
+2026-08-06,BOM,DEL,Air India,4436,798,5234,Economy Saver,48,OTA
+2026-08-06,BOM,DEL,Akasa Air,3928,707,4635,Economy Saver,80,OTA
+2026-08-06,BOM,DEL,SpiceJet,3850,693,4543,Economy Saver,49,OTA
+2026-08-06,BLR,HYD,IndiGo,2997,539,3536,Economy Saver,63,OTA
+2026-08-06,BLR,HYD,Air India,3356,604,3960,Economy,78,OTA
+2026-08-06,BLR,HYD,Akasa Air,2959,533,3492,Economy Saver,10,OTA
+2026-08-06,BLR,HYD,SpiceJet,2865,516,3381,Economy Saver,54,Airline Portal
+2026-08-06,DEL,MAA,IndiGo,4430,797,5227,Economy,69,OTA
+2026-08-06,DEL,MAA,Air India,5282,951,6233,Economy Saver,17,OTA
+2026-08-06,DEL,MAA,Akasa Air,4241,763,5004,Economy Saver,24,Airline Portal
+2026-08-06,DEL,MAA,SpiceJet,4532,816,5348,Economy Saver,48,OTA
+2026-08-07,DEL,BOM,IndiGo,4403,793,5196,Economy Saver,73,OTA
+2026-08-07,DEL,BOM,Air India,4674,841,5515,Economy Saver,74,Airline Portal
+2026-08-07,DEL,BOM,Akasa Air,3914,705,4619,Economy Saver,34,Airline Portal
+2026-08-07,DEL,BOM,SpiceJet,3650,657,4307,Economy,61,Airline Portal
+2026-08-07,DEL,BLR,IndiGo,4936,888,5824,Economy,10,OTA
+2026-08-07,DEL,BLR,Air India,5019,903,5922,Economy Saver,52,OTA
+2026-08-07,DEL,BLR,Akasa Air,4477,806,5283,Economy Saver,77,Airline Portal
+2026-08-07,DEL,BLR,SpiceJet,4064,732,4796,Economy Saver,35,OTA
+2026-08-07,DEL,HYD,IndiGo,3580,644,4224,Economy,64,OTA
+2026-08-07,DEL,HYD,Air India,4075,734,4809,Economy,64,OTA
+2026-08-07,DEL,HYD,Akasa Air,3403,613,4016,Economy,61,OTA
+2026-08-07,DEL,HYD,SpiceJet,3370,607,3977,Economy Saver,37,OTA
+2026-08-07,DEL,CCU,IndiGo,4298,774,5072,Economy Saver,66,Airline Portal
+2026-08-07,DEL,CCU,Air India,4746,854,5600,Economy Saver,78,OTA
+2026-08-07,DEL,CCU,Akasa Air,4191,754,4945,Economy,55,OTA
+2026-08-07,DEL,CCU,SpiceJet,4168,750,4918,Economy,68,OTA
+2026-08-07,BOM,BLR,IndiGo,3103,559,3662,Economy Saver,33,Airline Portal
+2026-08-07,BOM,BLR,Air India,3567,642,4209,Economy,17,Airline Portal
+2026-08-07,BOM,BLR,Akasa Air,3015,543,3558,Economy,79,OTA
+2026-08-07,BOM,BLR,SpiceJet,2767,498,3265,Economy Saver,46,OTA
+2026-08-07,BOM,DEL,IndiGo,3963,713,4676,Economy Saver,72,OTA
+2026-08-07,BOM,DEL,Air India,4465,804,5269,Economy Saver,42,OTA
+2026-08-07,BOM,DEL,Akasa Air,4060,731,4791,Economy,23,Airline Portal
+2026-08-07,BOM,DEL,SpiceJet,4029,725,4754,Economy Saver,76,OTA
+2026-08-07,BLR,HYD,IndiGo,2886,519,3405,Economy,38,Airline Portal
+2026-08-07,BLR,HYD,Air India,3321,598,3919,Economy Saver,79,OTA
+2026-08-07,BLR,HYD,Akasa Air,3153,568,3721,Economy Saver,18,Airline Portal
+2026-08-07,BLR,HYD,SpiceJet,2818,507,3325,Economy Saver,33,Airline Portal
+2026-08-07,DEL,MAA,IndiGo,4702,846,5548,Economy Saver,57,Airline Portal
+2026-08-07,DEL,MAA,Air India,5246,944,6190,Economy,43,OTA
+2026-08-07,DEL,MAA,Akasa Air,4322,778,5100,Economy,54,OTA
+2026-08-07,DEL,MAA,SpiceJet,4538,817,5355,Economy Saver,80,Airline Portal
+2026-08-08,DEL,BOM,IndiGo,4380,788,5168,Economy,67,OTA
+2026-08-08,DEL,BOM,Air India,4542,818,5360,Economy,52,Airline Portal
+2026-08-08,DEL,BOM,Akasa Air,4285,771,5056,Economy,51,Airline Portal
+2026-08-08,DEL,BOM,SpiceJet,3905,703,4608,Economy Saver,12,OTA
+2026-08-08,DEL,BLR,IndiGo,4933,888,5821,Economy,63,Airline Portal
+2026-08-08,DEL,BLR,Air India,5214,939,6153,Economy,11,OTA
+2026-08-08,DEL,BLR,Akasa Air,4309,776,5085,Economy,13,Airline Portal
+2026-08-08,DEL,BLR,SpiceJet,4529,815,5344,Economy,47,Airline Portal
+2026-08-08,DEL,HYD,IndiGo,3833,690,4523,Economy,40,Airline Portal
+2026-08-08,DEL,HYD,Air India,4144,746,4890,Economy Saver,27,Airline Portal
+2026-08-08,DEL,HYD,Akasa Air,3368,606,3974,Economy,6,OTA
+2026-08-08,DEL,HYD,SpiceJet,3347,602,3949,Economy Saver,7,Airline Portal
+2026-08-08,DEL,CCU,IndiGo,4200,756,4956,Economy Saver,72,Airline Portal
+2026-08-08,DEL,CCU,Air India,4821,868,5689,Economy Saver,51,Airline Portal
+2026-08-08,DEL,CCU,Akasa Air,4105,739,4844,Economy,71,OTA
+2026-08-08,DEL,CCU,SpiceJet,4310,776,5086,Economy,12,OTA
+2026-08-08,BOM,BLR,IndiGo,3256,586,3842,Economy,67,OTA
+2026-08-08,BOM,BLR,Air India,3196,575,3771,Economy Saver,23,Airline Portal
+2026-08-08,BOM,BLR,Akasa Air,3105,559,3664,Economy Saver,53,OTA
+2026-08-08,BOM,BLR,SpiceJet,3021,544,3565,Economy Saver,17,Airline Portal
+2026-08-08,BOM,DEL,IndiGo,4372,787,5159,Economy,60,OTA
+2026-08-08,BOM,DEL,Air India,4600,828,5428,Economy Saver,63,OTA
+2026-08-08,BOM,DEL,Akasa Air,3842,692,4534,Economy Saver,59,OTA
+2026-08-08,BOM,DEL,SpiceJet,3857,694,4551,Economy,65,Airline Portal
+2026-08-08,BLR,HYD,IndiGo,2749,495,3244,Economy,60,Airline Portal
+2026-08-08,BLR,HYD,Air India,3256,586,3842,Economy,76,Airline Portal
+2026-08-08,BLR,HYD,Akasa Air,2958,532,3490,Economy Saver,20,OTA
+2026-08-08,BLR,HYD,SpiceJet,2852,513,3365,Economy Saver,11,OTA
+2026-08-08,DEL,MAA,IndiGo,4675,842,5517,Economy,78,Airline Portal
+2026-08-08,DEL,MAA,Air India,5036,906,5942,Economy,18,OTA
+2026-08-08,DEL,MAA,Akasa Air,4534,816,5350,Economy,40,Airline Portal
+2026-08-08,DEL,MAA,SpiceJet,4581,825,5406,Economy,39,Airline Portal
+2026-08-09,DEL,BOM,IndiGo,4305,775,5080,Economy Saver,48,OTA
+2026-08-09,DEL,BOM,Air India,4689,844,5533,Economy,77,OTA
+2026-08-09,DEL,BOM,Akasa Air,4136,744,4880,Economy,16,Airline Portal
+2026-08-09,DEL,BOM,SpiceJet,3878,698,4576,Economy Saver,25,OTA
+2026-08-09,DEL,BLR,IndiGo,4638,835,5473,Economy,11,Airline Portal
+2026-08-09,DEL,BLR,Air India,5133,924,6057,Economy,15,OTA
+2026-08-09,DEL,BLR,Akasa Air,4526,815,5341,Economy Saver,61,OTA
+2026-08-09,DEL,BLR,SpiceJet,4473,805,5278,Economy,49,OTA
+2026-08-09,DEL,HYD,IndiGo,3779,680,4459,Economy Saver,72,OTA
+2026-08-09,DEL,HYD,Air India,3915,705,4620,Economy,5,Airline Portal
+2026-08-09,DEL,HYD,Akasa Air,3429,617,4046,Economy,37,OTA
+2026-08-09,DEL,HYD,SpiceJet,3181,573,3754,Economy Saver,60,Airline Portal
+2026-08-09,DEL,CCU,IndiGo,4408,793,5201,Economy,69,OTA
+2026-08-09,DEL,CCU,Air India,4915,885,5800,Economy,60,Airline Portal
+2026-08-09,DEL,CCU,Akasa Air,4063,731,4794,Economy Saver,78,OTA
+2026-08-09,DEL,CCU,SpiceJet,4230,761,4991,Economy Saver,42,Airline Portal
+2026-08-09,BOM,BLR,IndiGo,3485,627,4112,Economy Saver,26,OTA
+2026-08-09,BOM,BLR,Air India,3813,686,4499,Economy Saver,16,OTA
+2026-08-09,BOM,BLR,Akasa Air,3070,553,3623,Economy Saver,80,OTA
+2026-08-09,BOM,BLR,SpiceJet,2956,532,3488,Economy Saver,48,Airline Portal
+2026-08-09,BOM,DEL,IndiGo,4063,731,4794,Economy,70,Airline Portal
+2026-08-09,BOM,DEL,Air India,4456,802,5258,Economy Saver,49,Airline Portal
+2026-08-09,BOM,DEL,Akasa Air,3863,695,4558,Economy Saver,30,Airline Portal
+2026-08-09,BOM,DEL,SpiceJet,4077,734,4811,Economy,27,OTA
+2026-08-09,BLR,HYD,IndiGo,3091,556,3647,Economy Saver,77,OTA
+2026-08-09,BLR,HYD,Air India,3454,622,4076,Economy Saver,24,OTA
+2026-08-09,BLR,HYD,Akasa Air,2831,510,3341,Economy Saver,40,Airline Portal
+2026-08-09,BLR,HYD,SpiceJet,2575,464,3039,Economy Saver,64,OTA
+2026-08-09,DEL,MAA,IndiGo,4606,829,5435,Economy Saver,14,Airline Portal
+2026-08-09,DEL,MAA,Air India,5175,932,6107,Economy Saver,64,Airline Portal
+2026-08-09,DEL,MAA,Akasa Air,4724,850,5574,Economy,46,OTA
+2026-08-09,DEL,MAA,SpiceJet,4619,831,5450,Economy,62,Airline Portal
+2026-08-10,DEL,BOM,IndiGo,4540,817,5357,Economy Saver,15,Airline Portal
+2026-08-10,DEL,BOM,Air India,4636,834,5470,Economy Saver,61,Airline Portal
+2026-08-10,DEL,BOM,Akasa Air,4310,776,5086,Economy Saver,54,OTA
+2026-08-10,DEL,BOM,SpiceJet,4103,739,4842,Economy,47,Airline Portal
+2026-08-10,DEL,BLR,IndiGo,4789,862,5651,Economy Saver,41,OTA
+2026-08-10,DEL,BLR,Air India,5316,957,6273,Economy,47,Airline Portal
+2026-08-10,DEL,BLR,Akasa Air,4441,799,5240,Economy Saver,44,OTA
+2026-08-10,DEL,BLR,SpiceJet,4444,800,5244,Economy,44,OTA
+2026-08-10,DEL,HYD,IndiGo,3743,674,4417,Economy,72,Airline Portal
+2026-08-10,DEL,HYD,Air India,4097,737,4834,Economy Saver,7,OTA
+2026-08-10,DEL,HYD,Akasa Air,3836,690,4526,Economy,48,OTA
+2026-08-10,DEL,HYD,SpiceJet,3245,584,3829,Economy,14,OTA
+2026-08-10,DEL,CCU,IndiGo,4371,787,5158,Economy,48,Airline Portal
+2026-08-10,DEL,CCU,Air India,4704,847,5551,Economy,28,Airline Portal
+2026-08-10,DEL,CCU,Akasa Air,4133,744,4877,Economy Saver,51,Airline Portal
+2026-08-10,DEL,CCU,SpiceJet,4292,773,5065,Economy Saver,62,Airline Portal
+2026-08-10,BOM,BLR,IndiGo,3208,577,3785,Economy Saver,29,OTA
+2026-08-10,BOM,BLR,Air India,3641,655,4296,Economy Saver,64,OTA
+2026-08-10,BOM,BLR,Akasa Air,3228,581,3809,Economy Saver,25,Airline Portal
+2026-08-10,BOM,BLR,SpiceJet,2911,524,3435,Economy Saver,11,OTA
+2026-08-10,BOM,DEL,IndiGo,4410,794,5204,Economy,71,Airline Portal
+2026-08-10,BOM,DEL,Air India,4724,850,5574,Economy,39,OTA
+2026-08-10,BOM,DEL,Akasa Air,4033,726,4759,Economy Saver,16,Airline Portal
+2026-08-10,BOM,DEL,SpiceJet,4217,759,4976,Economy Saver,8,OTA
+2026-08-10,BLR,HYD,IndiGo,2999,540,3539,Economy Saver,35,OTA
+2026-08-10,BLR,HYD,Air India,3401,612,4013,Economy,8,OTA
+2026-08-10,BLR,HYD,Akasa Air,3241,583,3824,Economy Saver,23,Airline Portal
+2026-08-10,BLR,HYD,SpiceJet,2969,534,3503,Economy Saver,22,OTA
+2026-08-10,DEL,MAA,IndiGo,4533,816,5349,Economy,7,OTA
+2026-08-10,DEL,MAA,Air India,4933,888,5821,Economy Saver,19,OTA
+2026-08-10,DEL,MAA,Akasa Air,4356,784,5140,Economy,35,OTA
+2026-08-10,DEL,MAA,SpiceJet,4506,811,5317,Economy Saver,13,Airline Portal
+2026-08-11,DEL,BOM,IndiGo,4414,795,5209,Economy,70,Airline Portal
+2026-08-11,DEL,BOM,Air India,4629,833,5462,Economy Saver,5,OTA
+2026-08-11,DEL,BOM,Akasa Air,4053,730,4783,Economy,15,OTA
+2026-08-11,DEL,BOM,SpiceJet,3899,702,4601,Economy,54,OTA
+2026-08-11,DEL,BLR,IndiGo,4659,839,5498,Economy Saver,37,Airline Portal
+2026-08-11,DEL,BLR,Air India,4956,892,5848,Economy Saver,35,Airline Portal
+2026-08-11,DEL,BLR,Akasa Air,4823,868,5691,Economy Saver,22,Airline Portal
+2026-08-11,DEL,BLR,SpiceJet,4328,779,5107,Economy,64,OTA
+2026-08-11,DEL,HYD,IndiGo,4023,724,4747,Economy,13,OTA
+2026-08-11,DEL,HYD,Air India,3859,695,4554,Economy,30,Airline Portal
+2026-08-11,DEL,HYD,Akasa Air,3536,636,4172,Economy Saver,74,OTA
+2026-08-11,DEL,HYD,SpiceJet,3597,647,4244,Economy,41,OTA
+2026-08-11,DEL,CCU,IndiGo,4390,790,5180,Economy Saver,39,Airline Portal
+2026-08-11,DEL,CCU,Air India,4941,889,5830,Economy Saver,61,OTA
+2026-08-11,DEL,CCU,Akasa Air,4150,747,4897,Economy Saver,68,OTA
+2026-08-11,DEL,CCU,SpiceJet,4276,770,5046,Economy Saver,15,OTA
+2026-08-11,BOM,BLR,IndiGo,3278,590,3868,Economy,74,OTA
+2026-08-11,BOM,BLR,Air India,3333,600,3933,Economy Saver,42,OTA
+2026-08-11,BOM,BLR,Akasa Air,3296,593,3889,Economy Saver,26,OTA
+2026-08-11,BOM,BLR,SpiceJet,2796,503,3299,Economy Saver,60,OTA
+2026-08-11,BOM,DEL,IndiGo,4515,813,5328,Economy,14,OTA
+2026-08-11,BOM,DEL,Air India,4794,863,5657,Economy,8,Airline Portal
+2026-08-11,BOM,DEL,Akasa Air,4333,780,5113,Economy Saver,9,Airline Portal
+2026-08-11,BOM,DEL,SpiceJet,4027,725,4752,Economy Saver,51,OTA
+2026-08-11,BLR,HYD,IndiGo,3003,541,3544,Economy,62,OTA
+2026-08-11,BLR,HYD,Air India,3480,626,4106,Economy,78,Airline Portal
+2026-08-11,BLR,HYD,Akasa Air,2960,533,3493,Economy Saver,40,Airline Portal
+2026-08-11,BLR,HYD,SpiceJet,2744,494,3238,Economy,68,OTA
+2026-08-11,DEL,MAA,IndiGo,4738,853,5591,Economy Saver,38,OTA
+2026-08-11,DEL,MAA,Air India,5197,935,6132,Economy Saver,67,Airline Portal
+2026-08-11,DEL,MAA,Akasa Air,4727,851,5578,Economy,62,Airline Portal
+2026-08-11,DEL,MAA,SpiceJet,4508,811,5319,Economy,45,OTA
+2026-08-12,DEL,BOM,IndiGo,4446,800,5246,Economy Saver,43,Airline Portal
+2026-08-12,DEL,BOM,Air India,4993,899,5892,Economy,51,Airline Portal
+2026-08-12,DEL,BOM,Akasa Air,3935,708,4643,Economy,35,OTA
+2026-08-12,DEL,BOM,SpiceJet,3922,706,4628,Economy Saver,64,Airline Portal
+2026-08-12,DEL,BLR,IndiGo,4682,843,5525,Economy,44,OTA
+2026-08-12,DEL,BLR,Air India,5512,992,6504,Economy Saver,72,OTA
+2026-08-12,DEL,BLR,Akasa Air,4905,883,5788,Economy,21,OTA
+2026-08-12,DEL,BLR,SpiceJet,4485,807,5292,Economy Saver,71,OTA
+2026-08-12,DEL,HYD,IndiGo,3929,707,4636,Economy,21,OTA
+2026-08-12,DEL,HYD,Air India,4361,785,5146,Economy,20,Airline Portal
+2026-08-12,DEL,HYD,Akasa Air,3483,627,4110,Economy Saver,33,OTA
+2026-08-12,DEL,HYD,SpiceJet,3677,662,4339,Economy Saver,15,OTA
+2026-08-12,DEL,CCU,IndiGo,4713,848,5561,Economy Saver,21,OTA
+2026-08-12,DEL,CCU,Air India,4753,856,5609,Economy,80,Airline Portal
+2026-08-12,DEL,CCU,Akasa Air,4357,784,5141,Economy Saver,77,Airline Portal
+2026-08-12,DEL,CCU,SpiceJet,4039,727,4766,Economy,10,OTA
+2026-08-12,BOM,BLR,IndiGo,3541,637,4178,Economy Saver,8,OTA
+2026-08-12,BOM,BLR,Air India,3771,679,4450,Economy Saver,43,OTA
+2026-08-12,BOM,BLR,Akasa Air,3319,597,3916,Economy Saver,43,OTA
+2026-08-12,BOM,BLR,SpiceJet,2761,497,3258,Economy,61,OTA
+2026-08-12,BOM,DEL,IndiGo,4207,757,4964,Economy Saver,23,OTA
+2026-08-12,BOM,DEL,Air India,4726,851,5577,Economy Saver,56,Airline Portal
+2026-08-12,BOM,DEL,Akasa Air,4265,768,5033,Economy,45,Airline Portal
+2026-08-12,BOM,DEL,SpiceJet,3886,699,4585,Economy Saver,36,Airline Portal
+2026-08-12,BLR,HYD,IndiGo,2945,530,3475,Economy Saver,58,Airline Portal
+2026-08-12,BLR,HYD,Air India,3759,677,4436,Economy,46,OTA
+2026-08-12,BLR,HYD,Akasa Air,2780,500,3280,Economy Saver,70,OTA
+2026-08-12,BLR,HYD,SpiceJet,2812,506,3318,Economy Saver,7,Airline Portal
+2026-08-12,DEL,MAA,IndiGo,4988,898,5886,Economy Saver,35,Airline Portal
+2026-08-12,DEL,MAA,Air India,5045,908,5953,Economy,41,OTA
+2026-08-12,DEL,MAA,Akasa Air,4870,877,5747,Economy Saver,41,Airline Portal
+2026-08-12,DEL,MAA,SpiceJet,4527,815,5342,Economy,38,OTA
+2026-08-13,DEL,BOM,IndiGo,4406,793,5199,Economy,56,Airline Portal
+2026-08-13,DEL,BOM,Air India,4613,830,5443,Economy Saver,75,OTA
+2026-08-13,DEL,BOM,Akasa Air,4100,738,4838,Economy Saver,75,OTA
+2026-08-13,DEL,BOM,SpiceJet,4198,756,4954,Economy,21,Airline Portal
+2026-08-13,DEL,BLR,IndiGo,5014,903,5917,Economy Saver,76,OTA
+2026-08-13,DEL,BLR,Air India,5215,939,6154,Economy Saver,69,Airline Portal
+2026-08-13,DEL,BLR,Akasa Air,4383,789,5172,Economy Saver,65,OTA
+2026-08-13,DEL,BLR,SpiceJet,4609,830,5439,Economy,46,OTA
+2026-08-13,DEL,HYD,IndiGo,3854,694,4548,Economy Saver,80,OTA
+2026-08-13,DEL,HYD,Air India,4214,759,4973,Economy Saver,77,OTA
+2026-08-13,DEL,HYD,Akasa Air,3485,627,4112,Economy Saver,47,Airline Portal
+2026-08-13,DEL,HYD,SpiceJet,3759,677,4436,Economy Saver,8,OTA
+2026-08-13,DEL,CCU,IndiGo,4605,829,5434,Economy,11,OTA
+2026-08-13,DEL,CCU,Air India,4922,886,5808,Economy Saver,23,Airline Portal
+2026-08-13,DEL,CCU,Akasa Air,4506,811,5317,Economy,29,Airline Portal
+2026-08-13,DEL,CCU,SpiceJet,4171,751,4922,Economy,57,Airline Portal
+2026-08-13,BOM,BLR,IndiGo,3509,632,4141,Economy Saver,12,Airline Portal
+2026-08-13,BOM,BLR,Air India,3704,667,4371,Economy Saver,66,OTA
+2026-08-13,BOM,BLR,Akasa Air,3039,547,3586,Economy Saver,73,OTA
+2026-08-13,BOM,BLR,SpiceJet,3228,581,3809,Economy Saver,66,Airline Portal
+2026-08-13,BOM,DEL,IndiGo,4419,795,5214,Economy Saver,33,OTA
+2026-08-13,BOM,DEL,Air India,4939,889,5828,Economy,67,OTA
+2026-08-13,BOM,DEL,Akasa Air,4245,764,5009,Economy Saver,41,Airline Portal
+2026-08-13,BOM,DEL,SpiceJet,4087,736,4823,Economy Saver,55,OTA
+2026-08-13,BLR,HYD,IndiGo,3487,628,4115,Economy,42,Airline Portal
+2026-08-13,BLR,HYD,Air India,3491,628,4119,Economy,49,OTA
+2026-08-13,BLR,HYD,Akasa Air,3239,583,3822,Economy Saver,32,Airline Portal
+2026-08-13,BLR,HYD,SpiceJet,2913,524,3437,Economy Saver,22,Airline Portal
+2026-08-13,DEL,MAA,IndiGo,4975,896,5871,Economy,36,Airline Portal
+2026-08-13,DEL,MAA,Air India,5357,964,6321,Economy,34,Airline Portal
+2026-08-13,DEL,MAA,Akasa Air,4498,810,5308,Economy Saver,17,Airline Portal
+2026-08-13,DEL,MAA,SpiceJet,4393,791,5184,Economy,57,OTA
+2026-08-14,DEL,BOM,IndiGo,4267,768,5035,Economy Saver,46,OTA
+2026-08-14,DEL,BOM,Air India,5042,908,5950,Economy,78,Airline Portal
+2026-08-14,DEL,BOM,Akasa Air,4377,788,5165,Economy,27,OTA
+2026-08-14,DEL,BOM,SpiceJet,4023,724,4747,Economy,55,OTA
+2026-08-14,DEL,BLR,IndiGo,4954,892,5846,Economy Saver,9,Airline Portal
+2026-08-14,DEL,BLR,Air India,5304,955,6259,Economy,47,OTA
+2026-08-14,DEL,BLR,Akasa Air,4789,862,5651,Economy Saver,22,OTA
+2026-08-14,DEL,BLR,SpiceJet,4625,832,5457,Economy,47,Airline Portal
+2026-08-14,DEL,HYD,IndiGo,4079,734,4813,Economy Saver,28,Airline Portal
+2026-08-14,DEL,HYD,Air India,4473,805,5278,Economy Saver,77,Airline Portal
+2026-08-14,DEL,HYD,Akasa Air,3852,693,4545,Economy Saver,59,OTA
+2026-08-14,DEL,HYD,SpiceJet,3577,644,4221,Economy,28,Airline Portal
+2026-08-14,DEL,CCU,IndiGo,4844,872,5716,Economy,5,OTA
+2026-08-14,DEL,CCU,Air India,4929,887,5816,Economy Saver,47,OTA
+2026-08-14,DEL,CCU,Akasa Air,4506,811,5317,Economy,38,OTA
+2026-08-14,DEL,CCU,SpiceJet,4091,736,4827,Economy,64,OTA
+2026-08-14,BOM,BLR,IndiGo,3413,614,4027,Economy Saver,20,OTA
+2026-08-14,BOM,BLR,Air India,3513,632,4145,Economy,22,OTA
+2026-08-14,BOM,BLR,Akasa Air,3309,596,3905,Economy Saver,58,OTA
+2026-08-14,BOM,BLR,SpiceJet,3386,609,3995,Economy,36,Airline Portal
+2026-08-14,BOM,DEL,IndiGo,4451,801,5252,Economy Saver,14,Airline Portal
+2026-08-14,BOM,DEL,Air India,4652,837,5489,Economy,78,Airline Portal
+2026-08-14,BOM,DEL,Akasa Air,4328,779,5107,Economy Saver,19,Airline Portal
+2026-08-14,BOM,DEL,SpiceJet,4134,744,4878,Economy,70,OTA
+2026-08-14,BLR,HYD,IndiGo,3305,595,3900,Economy,70,OTA
+2026-08-14,BLR,HYD,Air India,3244,584,3828,Economy Saver,44,Airline Portal
+2026-08-14,BLR,HYD,Akasa Air,3229,581,3810,Economy,32,Airline Portal
+2026-08-14,BLR,HYD,SpiceJet,2755,496,3251,Economy,74,Airline Portal
+2026-08-14,DEL,MAA,IndiGo,4849,873,5722,Economy Saver,9,OTA
+2026-08-14,DEL,MAA,Air India,5427,977,6404,Economy,58,OTA
+2026-08-14,DEL,MAA,Akasa Air,4824,868,5692,Economy Saver,53,OTA
+2026-08-14,DEL,MAA,SpiceJet,4646,836,5482,Economy,49,Airline Portal
+2026-08-15,DEL,BOM,IndiGo,4367,786,5153,Economy Saver,72,Airline Portal
+2026-08-15,DEL,BOM,Air India,4762,857,5619,Economy,7,OTA
+2026-08-15,DEL,BOM,Akasa Air,4382,789,5171,Economy Saver,73,OTA
+2026-08-15,DEL,BOM,SpiceJet,4079,734,4813,Economy Saver,49,Airline Portal
+2026-08-15,DEL,BLR,IndiGo,5105,919,6024,Economy,9,OTA
+2026-08-15,DEL,BLR,Air India,5624,1012,6636,Economy,35,Airline Portal
+2026-08-15,DEL,BLR,Akasa Air,4665,840,5505,Economy,62,Airline Portal
+2026-08-15,DEL,BLR,SpiceJet,4248,765,5013,Economy Saver,61,Airline Portal
+2026-08-15,DEL,HYD,IndiGo,4105,739,4844,Economy,22,OTA
+2026-08-15,DEL,HYD,Air India,4390,790,5180,Economy Saver,78,OTA
+2026-08-15,DEL,HYD,Akasa Air,3906,703,4609,Economy,71,Airline Portal
+2026-08-15,DEL,HYD,SpiceJet,3501,630,4131,Economy,76,Airline Portal
+2026-08-15,DEL,CCU,IndiGo,4667,840,5507,Economy Saver,11,OTA
+2026-08-15,DEL,CCU,Air India,5287,952,6239,Economy Saver,72,OTA
+2026-08-15,DEL,CCU,Akasa Air,4494,809,5303,Economy,43,OTA
+2026-08-15,DEL,CCU,SpiceJet,4206,757,4963,Economy Saver,35,Airline Portal
+2026-08-15,BOM,BLR,IndiGo,3497,629,4126,Economy,64,Airline Portal
+2026-08-15,BOM,BLR,Air India,4000,720,4720,Economy Saver,76,Airline Portal
+2026-08-15,BOM,BLR,Akasa Air,3159,569,3728,Economy,47,Airline Portal
+2026-08-15,BOM,BLR,SpiceJet,3498,630,4128,Economy Saver,16,Airline Portal
+2026-08-15,BOM,DEL,IndiGo,4241,763,5004,Economy,14,Airline Portal
+2026-08-15,BOM,DEL,Air India,4977,896,5873,Economy,66,Airline Portal
+2026-08-15,BOM,DEL,Akasa Air,4321,778,5099,Economy Saver,6,Airline Portal
+2026-08-15,BOM,DEL,SpiceJet,4481,807,5288,Economy,66,Airline Portal
+2026-08-15,BLR,HYD,IndiGo,3433,618,4051,Economy,55,Airline Portal
+2026-08-15,BLR,HYD,Air India,3682,663,4345,Economy Saver,53,OTA
+2026-08-15,BLR,HYD,Akasa Air,3069,552,3621,Economy Saver,38,OTA
+2026-08-15,BLR,HYD,SpiceJet,3003,541,3544,Economy Saver,17,OTA
+2026-08-15,DEL,MAA,IndiGo,4960,893,5853,Economy,52,OTA
+2026-08-15,DEL,MAA,Air India,5357,964,6321,Economy,23,Airline Portal
+2026-08-15,DEL,MAA,Akasa Air,4904,883,5787,Economy Saver,42,Airline Portal
+2026-08-15,DEL,MAA,SpiceJet,4328,779,5107,Economy Saver,77,Airline Portal
+2026-08-16,DEL,BOM,IndiGo,4572,823,5395,Economy Saver,37,OTA
+2026-08-16,DEL,BOM,Air India,5113,920,6033,Economy Saver,63,Airline Portal
+2026-08-16,DEL,BOM,Akasa Air,4322,778,5100,Economy,22,OTA
+2026-08-16,DEL,BOM,SpiceJet,4224,760,4984,Economy,72,Airline Portal
+2026-08-16,DEL,BLR,IndiGo,4903,883,5786,Economy,5,OTA
+2026-08-16,DEL,BLR,Air India,5312,956,6268,Economy,13,Airline Portal
+2026-08-16,DEL,BLR,Akasa Air,4619,831,5450,Economy Saver,52,Airline Portal
+2026-08-16,DEL,BLR,SpiceJet,4720,850,5570,Economy Saver,67,Airline Portal
+2026-08-16,DEL,HYD,IndiGo,3834,690,4524,Economy Saver,6,Airline Portal
+2026-08-16,DEL,HYD,Air India,4208,757,4965,Economy Saver,7,OTA
+2026-08-16,DEL,HYD,Akasa Air,4153,748,4901,Economy,18,Airline Portal
+2026-08-16,DEL,HYD,SpiceJet,3550,639,4189,Economy,72,OTA
+2026-08-16,DEL,CCU,IndiGo,4692,845,5537,Economy Saver,15,OTA
+2026-08-16,DEL,CCU,Air India,5234,942,6176,Economy,33,OTA
+2026-08-16,DEL,CCU,Akasa Air,4750,855,5605,Economy,9,Airline Portal
+2026-08-16,DEL,CCU,SpiceJet,4223,760,4983,Economy Saver,12,Airline Portal
+2026-08-16,BOM,BLR,IndiGo,3356,604,3960,Economy Saver,60,OTA
+2026-08-16,BOM,BLR,Air India,3982,717,4699,Economy,72,Airline Portal
+2026-08-16,BOM,BLR,Akasa Air,3462,623,4085,Economy Saver,39,Airline Portal
+2026-08-16,BOM,BLR,SpiceJet,3455,622,4077,Economy Saver,74,Airline Portal
+2026-08-16,BOM,DEL,IndiGo,4552,819,5371,Economy Saver,7,Airline Portal
+2026-08-16,BOM,DEL,Air India,5017,903,5920,Economy Saver,14,OTA
+2026-08-16,BOM,DEL,Akasa Air,4059,731,4790,Economy Saver,74,OTA
+2026-08-16,BOM,DEL,SpiceJet,4216,759,4975,Economy,15,OTA
+2026-08-16,BLR,HYD,IndiGo,3093,557,3650,Economy,14,OTA
+2026-08-16,BLR,HYD,Air India,3657,658,4315,Economy Saver,46,Airline Portal
+2026-08-16,BLR,HYD,Akasa Air,3355,604,3959,Economy Saver,67,Airline Portal
+2026-08-16,BLR,HYD,SpiceJet,3206,577,3783,Economy Saver,60,Airline Portal
+2026-08-16,DEL,MAA,IndiGo,5143,926,6069,Economy Saver,15,OTA
+2026-08-16,DEL,MAA,Air India,5622,1012,6634,Economy,15,OTA
+2026-08-16,DEL,MAA,Akasa Air,4778,860,5638,Economy,54,OTA
+2026-08-16,DEL,MAA,SpiceJet,4336,780,5116,Economy,44,OTA
+2026-08-17,DEL,BOM,IndiGo,4352,783,5135,Economy,21,Airline Portal
+2026-08-17,DEL,BOM,Air India,4726,851,5577,Economy Saver,18,Airline Portal
+2026-08-17,DEL,BOM,Akasa Air,4215,759,4974,Economy,46,OTA
+2026-08-17,DEL,BOM,SpiceJet,3940,709,4649,Economy Saver,15,Airline Portal
+2026-08-17,DEL,BLR,IndiGo,4885,879,5764,Economy Saver,26,Airline Portal
+2026-08-17,DEL,BLR,Air India,5209,938,6147,Economy Saver,23,Airline Portal
+2026-08-17,DEL,BLR,Akasa Air,4582,825,5407,Economy Saver,43,OTA
+2026-08-17,DEL,BLR,SpiceJet,4656,838,5494,Economy Saver,36,OTA
+2026-08-17,DEL,HYD,IndiGo,3908,703,4611,Economy Saver,18,Airline Portal
+2026-08-17,DEL,HYD,Air India,4492,809,5301,Economy Saver,47,OTA
+2026-08-17,DEL,HYD,Akasa Air,3894,701,4595,Economy Saver,47,OTA
+2026-08-17,DEL,HYD,SpiceJet,4004,721,4725,Economy,43,OTA
+2026-08-17,DEL,CCU,IndiGo,4866,876,5742,Economy,66,OTA
+2026-08-17,DEL,CCU,Air India,4911,884,5795,Economy Saver,42,OTA
+2026-08-17,DEL,CCU,Akasa Air,4861,875,5736,Economy,46,OTA
+2026-08-17,DEL,CCU,SpiceJet,4414,795,5209,Economy Saver,51,Airline Portal
+2026-08-17,BOM,BLR,IndiGo,3545,638,4183,Economy,75,Airline Portal
+2026-08-17,BOM,BLR,Air India,3983,717,4700,Economy,61,OTA
+2026-08-17,BOM,BLR,Akasa Air,3291,592,3883,Economy Saver,68,Airline Portal
+2026-08-17,BOM,BLR,SpiceJet,3160,569,3729,Economy Saver,24,OTA
+2026-08-17,BOM,DEL,IndiGo,4423,796,5219,Economy Saver,66,OTA
+2026-08-17,BOM,DEL,Air India,5118,921,6039,Economy Saver,74,Airline Portal
+2026-08-17,BOM,DEL,Akasa Air,4385,789,5174,Economy,18,Airline Portal
+2026-08-17,BOM,DEL,SpiceJet,4147,746,4893,Economy,10,OTA
+2026-08-17,BLR,HYD,IndiGo,3426,617,4043,Economy Saver,18,Airline Portal
+2026-08-17,BLR,HYD,Air India,3275,590,3865,Economy,62,OTA
+2026-08-17,BLR,HYD,Akasa Air,3290,592,3882,Economy,49,Airline Portal
+2026-08-17,BLR,HYD,SpiceJet,2949,531,3480,Economy Saver,15,Airline Portal
+2026-08-17,DEL,MAA,IndiGo,5276,950,6226,Economy,49,OTA
+2026-08-17,DEL,MAA,Air India,5505,991,6496,Economy,71,OTA
+2026-08-17,DEL,MAA,Akasa Air,4560,821,5381,Economy Saver,62,OTA
+2026-08-17,DEL,MAA,SpiceJet,4231,762,4993,Economy,7,OTA
+2026-08-18,DEL,BOM,IndiGo,4711,848,5559,Economy,36,Airline Portal
+2026-08-18,DEL,BOM,Air India,4860,875,5735,Economy Saver,64,Airline Portal
+2026-08-18,DEL,BOM,Akasa Air,4564,822,5386,Economy,28,OTA
+2026-08-18,DEL,BOM,SpiceJet,4274,769,5043,Economy,62,OTA
+2026-08-18,DEL,BLR,IndiGo,5115,921,6036,Economy,31,OTA
+2026-08-18,DEL,BLR,Air India,5737,1033,6770,Economy,78,Airline Portal
+2026-08-18,DEL,BLR,Akasa Air,4997,899,5896,Economy,51,OTA
+2026-08-18,DEL,BLR,SpiceJet,4338,781,5119,Economy Saver,67,OTA
+2026-08-18,DEL,HYD,IndiGo,4156,748,4904,Economy Saver,80,Airline Portal
+2026-08-18,DEL,HYD,Air India,4489,808,5297,Economy Saver,27,OTA
+2026-08-18,DEL,HYD,Akasa Air,4113,740,4853,Economy,22,OTA
+2026-08-18,DEL,HYD,SpiceJet,3485,627,4112,Economy,28,OTA
+2026-08-18,DEL,CCU,IndiGo,4846,872,5718,Economy Saver,58,Airline Portal
+2026-08-18,DEL,CCU,Air India,5133,924,6057,Economy,67,Airline Portal
+2026-08-18,DEL,CCU,Akasa Air,4585,825,5410,Economy Saver,22,Airline Portal
+2026-08-18,DEL,CCU,SpiceJet,4280,770,5050,Economy,50,Airline Portal
+2026-08-18,BOM,BLR,IndiGo,3395,611,4006,Economy Saver,76,OTA
+2026-08-18,BOM,BLR,Air India,3796,683,4479,Economy Saver,61,OTA
+2026-08-18,BOM,BLR,Akasa Air,3314,597,3911,Economy,33,OTA
+2026-08-18,BOM,BLR,SpiceJet,2951,531,3482,Economy Saver,26,OTA
+2026-08-18,BOM,DEL,IndiGo,4725,850,5575,Economy Saver,75,Airline Portal
+2026-08-18,BOM,DEL,Air India,4837,871,5708,Economy Saver,74,Airline Portal
+2026-08-18,BOM,DEL,Akasa Air,4451,801,5252,Economy,59,Airline Portal
+2026-08-18,BOM,DEL,SpiceJet,4365,786,5151,Economy,43,Airline Portal
+2026-08-18,BLR,HYD,IndiGo,3259,587,3846,Economy,61,Airline Portal
+2026-08-18,BLR,HYD,Air India,3618,651,4269,Economy,80,OTA
+2026-08-18,BLR,HYD,Akasa Air,3428,617,4045,Economy Saver,26,Airline Portal
+2026-08-18,BLR,HYD,SpiceJet,3362,605,3967,Economy,12,OTA
+2026-08-18,DEL,MAA,IndiGo,5121,922,6043,Economy,46,OTA
+2026-08-18,DEL,MAA,Air India,5246,944,6190,Economy,22,OTA
+2026-08-18,DEL,MAA,Akasa Air,4912,884,5796,Economy,21,Airline Portal
+2026-08-18,DEL,MAA,SpiceJet,4424,796,5220,Economy,55,OTA
+2026-08-19,DEL,BOM,IndiGo,4497,809,5306,Economy Saver,58,OTA
+2026-08-19,DEL,BOM,Air India,5002,900,5902,Economy,56,OTA
+2026-08-19,DEL,BOM,Akasa Air,4685,843,5528,Economy Saver,63,OTA
+2026-08-19,DEL,BOM,SpiceJet,3898,702,4600,Economy,63,OTA
+2026-08-19,DEL,BLR,IndiGo,5400,972,6372,Economy Saver,32,OTA
+2026-08-19,DEL,BLR,Air India,5653,1018,6671,Economy Saver,46,OTA
+2026-08-19,DEL,BLR,Akasa Air,4857,874,5731,Economy,77,OTA
+2026-08-19,DEL,BLR,SpiceJet,5005,901,5906,Economy,10,Airline Portal
+2026-08-19,DEL,HYD,IndiGo,4320,778,5098,Economy Saver,7,Airline Portal
+2026-08-19,DEL,HYD,Air India,4451,801,5252,Economy Saver,63,Airline Portal
+2026-08-19,DEL,HYD,Akasa Air,4103,739,4842,Economy,21,OTA
+2026-08-19,DEL,HYD,SpiceJet,3844,692,4536,Economy Saver,16,OTA
+2026-08-19,DEL,CCU,IndiGo,4613,830,5443,Economy,11,OTA
+2026-08-19,DEL,CCU,Air India,5350,963,6313,Economy,59,Airline Portal
+2026-08-19,DEL,CCU,Akasa Air,4432,798,5230,Economy,66,Airline Portal
+2026-08-19,DEL,CCU,SpiceJet,4115,741,4856,Economy Saver,6,Airline Portal
+2026-08-19,BOM,BLR,IndiGo,3841,691,4532,Economy,59,Airline Portal
+2026-08-19,BOM,BLR,Air India,3728,671,4399,Economy Saver,16,Airline Portal
+2026-08-19,BOM,BLR,Akasa Air,3208,577,3785,Economy Saver,22,OTA
+2026-08-19,BOM,BLR,SpiceJet,3546,638,4184,Economy,23,Airline Portal
+2026-08-19,BOM,DEL,IndiGo,4353,784,5137,Economy,61,OTA
+2026-08-19,BOM,DEL,Air India,5131,924,6055,Economy,57,OTA
+2026-08-19,BOM,DEL,Akasa Air,4351,783,5134,Economy,22,Airline Portal
+2026-08-19,BOM,DEL,SpiceJet,4201,756,4957,Economy Saver,59,OTA
+2026-08-19,BLR,HYD,IndiGo,3392,611,4003,Economy Saver,15,Airline Portal
+2026-08-19,BLR,HYD,Air India,3739,673,4412,Economy Saver,8,OTA
+2026-08-19,BLR,HYD,Akasa Air,3182,573,3755,Economy,55,OTA
+2026-08-19,BLR,HYD,SpiceJet,3326,599,3925,Economy,68,OTA
+2026-08-19,DEL,MAA,IndiGo,4916,885,5801,Economy,72,Airline Portal
+2026-08-19,DEL,MAA,Air India,5956,1072,7028,Economy Saver,21,OTA
+2026-08-19,DEL,MAA,Akasa Air,5078,914,5992,Economy Saver,51,Airline Portal
+2026-08-19,DEL,MAA,SpiceJet,5025,904,5929,Economy,7,Airline Portal
+2026-08-20,DEL,BOM,IndiGo,4247,764,5011,Economy,12,OTA
+2026-08-20,DEL,BOM,Air India,5061,911,5972,Economy Saver,59,OTA
+2026-08-20,DEL,BOM,Akasa Air,4266,768,5034,Economy,40,Airline Portal
+2026-08-20,DEL,BOM,SpiceJet,4176,752,4928,Economy,24,OTA
+2026-08-20,DEL,BLR,IndiGo,5140,925,6065,Economy,44,OTA
+2026-08-20,DEL,BLR,Air India,5828,1049,6877,Economy,12,Airline Portal
+2026-08-20,DEL,BLR,Akasa Air,4696,845,5541,Economy,63,Airline Portal
+2026-08-20,DEL,BLR,SpiceJet,4754,856,5610,Economy,20,Airline Portal
+2026-08-20,DEL,HYD,IndiGo,4325,778,5103,Economy,25,OTA
+2026-08-20,DEL,HYD,Air India,4696,845,5541,Economy Saver,26,OTA
+2026-08-20,DEL,HYD,Akasa Air,3932,708,4640,Economy Saver,20,Airline Portal
+2026-08-20,DEL,HYD,SpiceJet,3685,663,4348,Economy Saver,72,Airline Portal
+2026-08-20,DEL,CCU,IndiGo,4954,892,5846,Economy,68,OTA
+2026-08-20,DEL,CCU,Air India,4986,897,5883,Economy Saver,77,Airline Portal
+2026-08-20,DEL,CCU,Akasa Air,4444,800,5244,Economy,78,Airline Portal
+2026-08-20,DEL,CCU,SpiceJet,4323,778,5101,Economy,10,Airline Portal
+2026-08-20,BOM,BLR,IndiGo,3487,628,4115,Economy Saver,54,Airline Portal
+2026-08-20,BOM,BLR,Air India,3983,717,4700,Economy,75,OTA
+2026-08-20,BOM,BLR,Akasa Air,3224,580,3804,Economy Saver,45,OTA
+2026-08-20,BOM,BLR,SpiceJet,3513,632,4145,Economy Saver,20,Airline Portal
+2026-08-20,BOM,DEL,IndiGo,4626,833,5459,Economy,56,Airline Portal
+2026-08-20,BOM,DEL,Air India,5373,967,6340,Economy Saver,44,OTA
+2026-08-20,BOM,DEL,Akasa Air,4227,761,4988,Economy,52,Airline Portal
+2026-08-20,BOM,DEL,SpiceJet,4308,775,5083,Economy Saver,36,OTA
+2026-08-20,BLR,HYD,IndiGo,3602,648,4250,Economy Saver,30,Airline Portal
+2026-08-20,BLR,HYD,Air India,3739,673,4412,Economy Saver,8,Airline Portal
+2026-08-20,BLR,HYD,Akasa Air,3375,608,3983,Economy,47,Airline Portal
+2026-08-20,BLR,HYD,SpiceJet,3199,576,3775,Economy Saver,18,Airline Portal
+2026-08-20,DEL,MAA,IndiGo,5003,901,5904,Economy Saver,67,Airline Portal
+2026-08-20,DEL,MAA,Air India,5591,1006,6597,Economy Saver,16,Airline Portal
+2026-08-20,DEL,MAA,Akasa Air,5314,957,6271,Economy Saver,52,OTA
+2026-08-20,DEL,MAA,SpiceJet,4708,847,5555,Economy,69,Airline Portal
+2026-08-21,DEL,BOM,IndiGo,4670,841,5511,Economy,80,Airline Portal
+2026-08-21,DEL,BOM,Air India,5230,941,6171,Economy,35,OTA
+2026-08-21,DEL,BOM,Akasa Air,4260,767,5027,Economy Saver,46,OTA
+2026-08-21,DEL,BOM,SpiceJet,4125,742,4867,Economy,30,Airline Portal
+2026-08-21,DEL,BLR,IndiGo,5339,961,6300,Economy,24,Airline Portal
+2026-08-21,DEL,BLR,Air India,5369,966,6335,Economy Saver,57,Airline Portal
+2026-08-21,DEL,BLR,Akasa Air,5204,937,6141,Economy,62,OTA
+2026-08-21,DEL,BLR,SpiceJet,4907,883,5790,Economy,16,Airline Portal
+2026-08-21,DEL,HYD,IndiGo,4209,758,4967,Economy,32,OTA
+2026-08-21,DEL,HYD,Air India,4406,793,5199,Economy,50,OTA
+2026-08-21,DEL,HYD,Akasa Air,4086,735,4821,Economy Saver,38,Airline Portal
+2026-08-21,DEL,HYD,SpiceJet,3559,641,4200,Economy Saver,76,Airline Portal
+2026-08-21,DEL,CCU,IndiGo,4449,801,5250,Economy,20,Airline Portal
+2026-08-21,DEL,CCU,Air India,5150,927,6077,Economy,21,Airline Portal
+2026-08-21,DEL,CCU,Akasa Air,4751,855,5606,Economy,79,OTA
+2026-08-21,DEL,CCU,SpiceJet,4442,800,5242,Economy,13,Airline Portal
+2026-08-21,BOM,BLR,IndiGo,3828,689,4517,Economy,16,OTA
+2026-08-21,BOM,BLR,Air India,3970,715,4685,Economy Saver,11,Airline Portal
+2026-08-21,BOM,BLR,Akasa Air,3679,662,4341,Economy Saver,68,Airline Portal
+2026-08-21,BOM,BLR,SpiceJet,3272,589,3861,Economy,50,Airline Portal
+2026-08-21,BOM,DEL,IndiGo,4744,854,5598,Economy Saver,62,Airline Portal
+2026-08-21,BOM,DEL,Air India,4838,871,5709,Economy,42,OTA
+2026-08-21,BOM,DEL,Akasa Air,4453,802,5255,Economy Saver,12,Airline Portal
+2026-08-21,BOM,DEL,SpiceJet,3997,719,4716,Economy Saver,30,Airline Portal
+2026-08-21,BLR,HYD,IndiGo,3675,662,4337,Economy,53,OTA
+2026-08-21,BLR,HYD,Air India,3865,696,4561,Economy Saver,49,OTA
+2026-08-21,BLR,HYD,Akasa Air,3100,558,3658,Economy,45,Airline Portal
+2026-08-21,BLR,HYD,SpiceJet,3122,562,3684,Economy Saver,12,OTA
+2026-08-21,DEL,MAA,IndiGo,5307,955,6262,Economy,25,Airline Portal
+2026-08-21,DEL,MAA,Air India,5299,954,6253,Economy Saver,73,Airline Portal
+2026-08-21,DEL,MAA,Akasa Air,5306,955,6261,Economy,78,OTA
+2026-08-21,DEL,MAA,SpiceJet,4850,873,5723,Economy,27,Airline Portal
+2026-08-22,DEL,BOM,IndiGo,4893,881,5774,Economy Saver,80,Airline Portal
+2026-08-22,DEL,BOM,Air India,5102,918,6020,Economy,77,Airline Portal
+2026-08-22,DEL,BOM,Akasa Air,4829,869,5698,Economy Saver,74,OTA
+2026-08-22,DEL,BOM,SpiceJet,3920,706,4626,Economy,12,Airline Portal
+2026-08-22,DEL,BLR,IndiGo,4996,899,5895,Economy Saver,5,OTA
+2026-08-22,DEL,BLR,Air India,5687,1024,6711,Economy,48,Airline Portal
+2026-08-22,DEL,BLR,Akasa Air,5368,966,6334,Economy Saver,12,Airline Portal
+2026-08-22,DEL,BLR,SpiceJet,4708,847,5555,Economy,19,OTA
+2026-08-22,DEL,HYD,IndiGo,4365,786,5151,Economy Saver,80,Airline Portal
+2026-08-22,DEL,HYD,Air India,4339,781,5120,Economy,25,OTA
+2026-08-22,DEL,HYD,Akasa Air,4403,793,5196,Economy Saver,45,Airline Portal
+2026-08-22,DEL,HYD,SpiceJet,3985,717,4702,Economy Saver,33,Airline Portal
+2026-08-22,DEL,CCU,IndiGo,4944,890,5834,Economy Saver,21,Airline Portal
+2026-08-22,DEL,CCU,Air India,5638,1015,6653,Economy Saver,77,Airline Portal
+2026-08-22,DEL,CCU,Akasa Air,4439,799,5238,Economy,77,Airline Portal
+2026-08-22,DEL,CCU,SpiceJet,4525,814,5339,Economy Saver,14,Airline Portal
+2026-08-22,BOM,BLR,IndiGo,3515,633,4148,Economy,16,OTA
+2026-08-22,BOM,BLR,Air India,3832,690,4522,Economy,36,Airline Portal
+2026-08-22,BOM,BLR,Akasa Air,3612,650,4262,Economy,5,Airline Portal
+2026-08-22,BOM,BLR,SpiceJet,3458,622,4080,Economy Saver,26,OTA
+2026-08-22,BOM,DEL,IndiGo,4622,832,5454,Economy Saver,74,OTA
+2026-08-22,BOM,DEL,Air India,4826,869,5695,Economy,25,OTA
+2026-08-22,BOM,DEL,Akasa Air,4463,803,5266,Economy,42,Airline Portal
+2026-08-22,BOM,DEL,SpiceJet,4457,802,5259,Economy,14,OTA
+2026-08-22,BLR,HYD,IndiGo,3251,585,3836,Economy,14,Airline Portal
+2026-08-22,BLR,HYD,Air India,3733,672,4405,Economy Saver,8,OTA
+2026-08-22,BLR,HYD,Akasa Air,3400,612,4012,Economy Saver,25,Airline Portal
+2026-08-22,BLR,HYD,SpiceJet,2866,516,3382,Economy,57,OTA
+2026-08-22,DEL,MAA,IndiGo,5169,930,6099,Economy,17,Airline Portal
+2026-08-22,DEL,MAA,Air India,5567,1002,6569,Economy Saver,24,Airline Portal
+2026-08-22,DEL,MAA,Akasa Air,4873,877,5750,Economy,42,OTA
+2026-08-22,DEL,MAA,SpiceJet,4386,789,5175,Economy,26,OTA
+2026-08-23,DEL,BOM,IndiGo,4969,894,5863,Economy,44,OTA
+2026-08-23,DEL,BOM,Air India,5283,951,6234,Economy Saver,16,OTA
+2026-08-23,DEL,BOM,Akasa Air,4563,821,5384,Economy Saver,52,Airline Portal
+2026-08-23,DEL,BOM,SpiceJet,4194,755,4949,Economy Saver,64,OTA
+2026-08-23,DEL,BLR,IndiGo,4951,891,5842,Economy,24,Airline Portal
+2026-08-23,DEL,BLR,Air India,5312,956,6268,Economy Saver,80,Airline Portal
+2026-08-23,DEL,BLR,Akasa Air,5215,939,6154,Economy Saver,71,OTA
+2026-08-23,DEL,BLR,SpiceJet,5134,924,6058,Economy Saver,78,Airline Portal
+2026-08-23,DEL,HYD,IndiGo,3992,719,4711,Economy Saver,9,Airline Portal
+2026-08-23,DEL,HYD,Air India,4464,804,5268,Economy Saver,27,Airline Portal
+2026-08-23,DEL,HYD,Akasa Air,4459,803,5262,Economy,21,Airline Portal
+2026-08-23,DEL,HYD,SpiceJet,3938,709,4647,Economy Saver,30,Airline Portal
+2026-08-23,DEL,CCU,IndiGo,4981,897,5878,Economy Saver,13,Airline Portal
+2026-08-23,DEL,CCU,Air India,5195,935,6130,Economy Saver,40,OTA
+2026-08-23,DEL,CCU,Akasa Air,4695,845,5540,Economy Saver,19,OTA
+2026-08-23,DEL,CCU,SpiceJet,4385,789,5174,Economy,18,Airline Portal
+2026-08-23,BOM,BLR,IndiGo,4066,732,4798,Economy Saver,57,OTA
+2026-08-23,BOM,BLR,Air India,3941,709,4650,Economy Saver,9,Airline Portal
+2026-08-23,BOM,BLR,Akasa Air,3271,589,3860,Economy Saver,9,OTA
+2026-08-23,BOM,BLR,SpiceJet,3534,636,4170,Economy,11,OTA
+2026-08-23,BOM,DEL,IndiGo,5155,928,6083,Economy Saver,7,OTA
+2026-08-23,BOM,DEL,Air India,5186,933,6119,Economy Saver,40,OTA
+2026-08-23,BOM,DEL,Akasa Air,4816,867,5683,Economy,34,Airline Portal
+2026-08-23,BOM,DEL,SpiceJet,4367,786,5153,Economy Saver,46,OTA
+2026-08-23,BLR,HYD,IndiGo,3700,666,4366,Economy,29,OTA
+2026-08-23,BLR,HYD,Air India,3796,683,4479,Economy Saver,67,OTA
+2026-08-23,BLR,HYD,Akasa Air,3557,640,4197,Economy,13,OTA
+2026-08-23,BLR,HYD,SpiceJet,3296,593,3889,Economy,72,Airline Portal
+2026-08-23,DEL,MAA,IndiGo,5234,942,6176,Economy,12,Airline Portal
+2026-08-23,DEL,MAA,Air India,5130,923,6053,Economy Saver,30,OTA
+2026-08-23,DEL,MAA,Akasa Air,4924,886,5810,Economy Saver,20,Airline Portal
+2026-08-23,DEL,MAA,SpiceJet,4667,840,5507,Economy Saver,27,OTA
+2026-08-24,DEL,BOM,IndiGo,4726,851,5577,Economy Saver,25,OTA
+2026-08-24,DEL,BOM,Air India,5384,969,6353,Economy,41,Airline Portal
+2026-08-24,DEL,BOM,Akasa Air,4328,779,5107,Economy,33,Airline Portal
+2026-08-24,DEL,BOM,SpiceJet,4349,783,5132,Economy Saver,70,Airline Portal
+2026-08-24,DEL,BLR,IndiGo,5702,1026,6728,Economy,65,Airline Portal
+2026-08-24,DEL,BLR,Air India,5816,1047,6863,Economy,33,OTA
+2026-08-24,DEL,BLR,Akasa Air,5329,959,6288,Economy Saver,40,OTA
+2026-08-24,DEL,BLR,SpiceJet,5223,940,6163,Economy Saver,63,OTA
+2026-08-24,DEL,HYD,IndiGo,3989,718,4707,Economy Saver,79,Airline Portal
+2026-08-24,DEL,HYD,Air India,4370,787,5157,Economy Saver,76,OTA
+2026-08-24,DEL,HYD,Akasa Air,3771,679,4450,Economy Saver,13,OTA
+2026-08-24,DEL,HYD,SpiceJet,4243,764,5007,Economy Saver,40,OTA
+2026-08-24,DEL,CCU,IndiGo,5274,949,6223,Economy Saver,29,Airline Portal
+2026-08-24,DEL,CCU,Air India,5227,941,6168,Economy,56,OTA
+2026-08-24,DEL,CCU,Akasa Air,4968,894,5862,Economy,68,OTA
+2026-08-24,DEL,CCU,SpiceJet,4388,790,5178,Economy Saver,54,Airline Portal
+2026-08-24,BOM,BLR,IndiGo,3837,691,4528,Economy,48,Airline Portal
+2026-08-24,BOM,BLR,Air India,4239,763,5002,Economy Saver,50,OTA
+2026-08-24,BOM,BLR,Akasa Air,3968,714,4682,Economy,42,Airline Portal
+2026-08-24,BOM,BLR,SpiceJet,3561,641,4202,Economy Saver,76,Airline Portal
+2026-08-24,BOM,DEL,IndiGo,5214,939,6153,Economy Saver,16,Airline Portal
+2026-08-24,BOM,DEL,Air India,5168,930,6098,Economy Saver,58,OTA
+2026-08-24,BOM,DEL,Akasa Air,4536,816,5352,Economy Saver,64,Airline Portal
+2026-08-24,BOM,DEL,SpiceJet,4545,818,5363,Economy,65,Airline Portal
+2026-08-24,BLR,HYD,IndiGo,3742,674,4416,Economy Saver,72,OTA
+2026-08-24,BLR,HYD,Air India,3972,715,4687,Economy,22,Airline Portal
+2026-08-24,BLR,HYD,Akasa Air,3360,605,3965,Economy Saver,23,OTA
+2026-08-24,BLR,HYD,SpiceJet,3297,593,3890,Economy,67,OTA
+2026-08-24,DEL,MAA,IndiGo,5163,929,6092,Economy Saver,12,Airline Portal
+2026-08-24,DEL,MAA,Air India,5495,989,6484,Economy,78,Airline Portal
+2026-08-24,DEL,MAA,Akasa Air,5172,931,6103,Economy,21,OTA
+2026-08-24,DEL,MAA,SpiceJet,4854,874,5728,Economy Saver,66,OTA
+2026-08-25,DEL,BOM,IndiGo,4506,811,5317,Economy,52,Airline Portal
+2026-08-25,DEL,BOM,Air India,5553,1000,6553,Economy,7,Airline Portal
+2026-08-25,DEL,BOM,Akasa Air,4539,817,5356,Economy,49,OTA
+2026-08-25,DEL,BOM,SpiceJet,4139,745,4884,Economy Saver,26,Airline Portal
+2026-08-25,DEL,BLR,IndiGo,5376,968,6344,Economy Saver,63,OTA
+2026-08-25,DEL,BLR,Air India,5760,1037,6797,Economy,48,OTA
+2026-08-25,DEL,BLR,Akasa Air,4834,870,5704,Economy,56,Airline Portal
+2026-08-25,DEL,BLR,SpiceJet,4830,869,5699,Economy,32,Airline Portal
+2026-08-25,DEL,HYD,IndiGo,4170,751,4921,Economy,51,Airline Portal
+2026-08-25,DEL,HYD,Air India,4619,831,5450,Economy Saver,73,Airline Portal
+2026-08-25,DEL,HYD,Akasa Air,3937,709,4646,Economy,7,Airline Portal
+2026-08-25,DEL,HYD,SpiceJet,4005,721,4726,Economy Saver,53,Airline Portal
+2026-08-25,DEL,CCU,IndiGo,5000,900,5900,Economy,31,Airline Portal
+2026-08-25,DEL,CCU,Air India,5338,961,6299,Economy,71,OTA
+2026-08-25,DEL,CCU,Akasa Air,4960,893,5853,Economy,58,Airline Portal
+2026-08-25,DEL,CCU,SpiceJet,4654,838,5492,Economy,41,Airline Portal
+2026-08-25,BOM,BLR,IndiGo,3955,712,4667,Economy,30,OTA
+2026-08-25,BOM,BLR,Air India,4545,818,5363,Economy,50,OTA
+2026-08-25,BOM,BLR,Akasa Air,3281,591,3872,Economy Saver,31,OTA
+2026-08-25,BOM,BLR,SpiceJet,3135,564,3699,Economy,16,Airline Portal
+2026-08-25,BOM,DEL,IndiGo,5073,913,5986,Economy Saver,24,Airline Portal
+2026-08-25,BOM,DEL,Air India,5132,924,6056,Economy,37,Airline Portal
+2026-08-25,BOM,DEL,Akasa Air,4814,867,5681,Economy Saver,38,OTA
+2026-08-25,BOM,DEL,SpiceJet,4315,777,5092,Economy,10,OTA
+2026-08-25,BLR,HYD,IndiGo,3592,647,4239,Economy Saver,59,Airline Portal
+2026-08-25,BLR,HYD,Air India,3742,674,4416,Economy,6,Airline Portal
+2026-08-25,BLR,HYD,Akasa Air,3368,606,3974,Economy Saver,50,OTA
+2026-08-25,BLR,HYD,SpiceJet,3432,618,4050,Economy,52,OTA
+2026-08-25,DEL,MAA,IndiGo,5045,908,5953,Economy Saver,63,OTA
+2026-08-25,DEL,MAA,Air India,6023,1084,7107,Economy Saver,58,Airline Portal
+2026-08-25,DEL,MAA,Akasa Air,4952,891,5843,Economy,25,Airline Portal
+2026-08-25,DEL,MAA,SpiceJet,4863,875,5738,Economy Saver,77,OTA
+2026-08-26,DEL,BOM,IndiGo,4557,820,5377,Economy Saver,8,Airline Portal
+2026-08-26,DEL,BOM,Air India,5185,933,6118,Economy,57,OTA
+2026-08-26,DEL,BOM,Akasa Air,4231,762,4993,Economy Saver,6,Airline Portal
+2026-08-26,DEL,BOM,SpiceJet,4794,863,5657,Economy Saver,71,Airline Portal
+2026-08-26,DEL,BLR,IndiGo,5393,971,6364,Economy,66,OTA
+2026-08-26,DEL,BLR,Air India,5926,1067,6993,Economy Saver,24,Airline Portal
+2026-08-26,DEL,BLR,Akasa Air,5035,906,5941,Economy,69,OTA
+2026-08-26,DEL,BLR,SpiceJet,5285,951,6236,Economy,14,OTA
+2026-08-26,DEL,HYD,IndiGo,4119,741,4860,Economy Saver,11,Airline Portal
+2026-08-26,DEL,HYD,Air India,4635,834,5469,Economy Saver,35,Airline Portal
+2026-08-26,DEL,HYD,Akasa Air,4275,770,5045,Economy Saver,16,OTA
+2026-08-26,DEL,HYD,SpiceJet,3747,674,4421,Economy Saver,7,Airline Portal
+2026-08-26,DEL,CCU,IndiGo,4720,850,5570,Economy,16,OTA
+2026-08-26,DEL,CCU,Air India,5714,1029,6743,Economy,63,OTA
+2026-08-26,DEL,CCU,Akasa Air,4507,811,5318,Economy,63,OTA
+2026-08-26,DEL,CCU,SpiceJet,4713,848,5561,Economy Saver,51,OTA
+2026-08-26,BOM,BLR,IndiGo,3709,668,4377,Economy,5,OTA
+2026-08-26,BOM,BLR,Air India,4094,737,4831,Economy Saver,75,OTA
+2026-08-26,BOM,BLR,Akasa Air,3554,640,4194,Economy,68,Airline Portal
+2026-08-26,BOM,BLR,SpiceJet,3823,688,4511,Economy Saver,18,OTA
+2026-08-26,BOM,DEL,IndiGo,4728,851,5579,Economy,55,Airline Portal
+2026-08-26,BOM,DEL,Air India,5319,957,6276,Economy,48,Airline Portal
+2026-08-26,BOM,DEL,Akasa Air,4547,818,5365,Economy,62,OTA
+2026-08-26,BOM,DEL,SpiceJet,4758,856,5614,Economy,68,Airline Portal
+2026-08-26,BLR,HYD,IndiGo,3405,613,4018,Economy Saver,79,OTA
+2026-08-26,BLR,HYD,Air India,4337,781,5118,Economy,79,Airline Portal
+2026-08-26,BLR,HYD,Akasa Air,3421,616,4037,Economy,54,OTA
+2026-08-26,BLR,HYD,SpiceJet,3272,589,3861,Economy Saver,36,OTA
+2026-08-26,DEL,MAA,IndiGo,5174,931,6105,Economy Saver,62,Airline Portal
+2026-08-26,DEL,MAA,Air India,5551,999,6550,Economy Saver,75,OTA
+2026-08-26,DEL,MAA,Akasa Air,5455,982,6437,Economy,30,Airline Portal
+2026-08-26,DEL,MAA,SpiceJet,4857,874,5731,Economy Saver,21,Airline Portal
+2026-08-27,DEL,BOM,IndiGo,4953,892,5845,Economy Saver,19,OTA
+2026-08-27,DEL,BOM,Air India,5324,958,6282,Economy Saver,73,OTA
+2026-08-27,DEL,BOM,Akasa Air,4853,874,5727,Economy,71,Airline Portal
+2026-08-27,DEL,BOM,SpiceJet,3998,720,4718,Economy,12,Airline Portal
+2026-08-27,DEL,BLR,IndiGo,5346,962,6308,Economy,41,OTA
+2026-08-27,DEL,BLR,Air India,5305,955,6260,Economy Saver,31,Airline Portal
+2026-08-27,DEL,BLR,Akasa Air,5024,904,5928,Economy,76,Airline Portal
+2026-08-27,DEL,BLR,SpiceJet,5099,918,6017,Economy Saver,35,OTA
+2026-08-27,DEL,HYD,IndiGo,4244,764,5008,Economy Saver,54,OTA
+2026-08-27,DEL,HYD,Air India,5262,947,6209,Economy Saver,75,Airline Portal
+2026-08-27,DEL,HYD,Akasa Air,3745,674,4419,Economy,61,Airline Portal
+2026-08-27,DEL,HYD,SpiceJet,4353,784,5137,Economy Saver,80,Airline Portal
+2026-08-27,DEL,CCU,IndiGo,5467,984,6451,Economy,42,OTA
+2026-08-27,DEL,CCU,Air India,5321,958,6279,Economy,28,Airline Portal
+2026-08-27,DEL,CCU,Akasa Air,4801,864,5665,Economy Saver,10,OTA
+2026-08-27,DEL,CCU,SpiceJet,4394,791,5185,Economy,25,OTA
+2026-08-27,BOM,BLR,IndiGo,3512,632,4144,Economy,10,Airline Portal
+2026-08-27,BOM,BLR,Air India,4508,811,5319,Economy,43,OTA
+2026-08-27,BOM,BLR,Akasa Air,3903,703,4606,Economy Saver,14,OTA
+2026-08-27,BOM,BLR,SpiceJet,3792,683,4475,Economy,71,Airline Portal
+2026-08-27,BOM,DEL,IndiGo,4862,875,5737,Economy Saver,74,OTA
+2026-08-27,BOM,DEL,Air India,4809,866,5675,Economy,47,OTA
+2026-08-27,BOM,DEL,Akasa Air,4425,796,5221,Economy Saver,76,Airline Portal
+2026-08-27,BOM,DEL,SpiceJet,4154,748,4902,Economy Saver,35,Airline Portal
+2026-08-27,BLR,HYD,IndiGo,4042,728,4770,Economy Saver,53,Airline Portal
+2026-08-27,BLR,HYD,Air India,3882,699,4581,Economy Saver,8,OTA
+2026-08-27,BLR,HYD,Akasa Air,3518,633,4151,Economy Saver,67,Airline Portal
+2026-08-27,BLR,HYD,SpiceJet,3315,597,3912,Economy,46,Airline Portal
+2026-08-27,DEL,MAA,IndiGo,5471,985,6456,Economy,13,Airline Portal
+2026-08-27,DEL,MAA,Air India,6038,1087,7125,Economy,59,Airline Portal
+2026-08-27,DEL,MAA,Akasa Air,5121,922,6043,Economy Saver,14,Airline Portal
+2026-08-27,DEL,MAA,SpiceJet,4750,855,5605,Economy Saver,9,Airline Portal
+2026-08-28,DEL,BOM,IndiGo,4430,797,5227,Economy Saver,76,Airline Portal
+2026-08-28,DEL,BOM,Air India,5188,934,6122,Economy Saver,57,OTA
+2026-08-28,DEL,BOM,Akasa Air,4608,829,5437,Economy Saver,45,Airline Portal
+2026-08-28,DEL,BOM,SpiceJet,4229,761,4990,Economy,13,Airline Portal
+2026-08-28,DEL,BLR,IndiGo,5300,954,6254,Economy Saver,69,Airline Portal
+2026-08-28,DEL,BLR,Air India,5755,1036,6791,Economy Saver,16,OTA
+2026-08-28,DEL,BLR,Akasa Air,5308,955,6263,Economy Saver,55,Airline Portal
+2026-08-28,DEL,BLR,SpiceJet,4954,892,5846,Economy,22,OTA
+2026-08-28,DEL,HYD,IndiGo,4762,857,5619,Economy Saver,23,OTA
+2026-08-28,DEL,HYD,Air India,5075,914,5989,Economy Saver,6,Airline Portal
+2026-08-28,DEL,HYD,Akasa Air,3710,668,4378,Economy Saver,73,Airline Portal
+2026-08-28,DEL,HYD,SpiceJet,4039,727,4766,Economy Saver,32,OTA
+2026-08-28,DEL,CCU,IndiGo,5536,996,6532,Economy,25,Airline Portal
+2026-08-28,DEL,CCU,Air India,5457,982,6439,Economy Saver,29,Airline Portal
+2026-08-28,DEL,CCU,Akasa Air,4827,869,5696,Economy,75,OTA
+2026-08-28,DEL,CCU,SpiceJet,4548,819,5367,Economy Saver,13,OTA
+2026-08-28,BOM,BLR,IndiGo,3727,671,4398,Economy Saver,47,OTA
+2026-08-28,BOM,BLR,Air India,4002,720,4722,Economy,17,OTA
+2026-08-28,BOM,BLR,Akasa Air,4010,722,4732,Economy,45,OTA
+2026-08-28,BOM,BLR,SpiceJet,3602,648,4250,Economy Saver,79,Airline Portal
+2026-08-28,BOM,DEL,IndiGo,4858,874,5732,Economy Saver,59,Airline Portal
+2026-08-28,BOM,DEL,Air India,4783,861,5644,Economy,60,OTA
+2026-08-28,BOM,DEL,Akasa Air,4721,850,5571,Economy Saver,66,OTA
+2026-08-28,BOM,DEL,SpiceJet,4599,828,5427,Economy Saver,67,Airline Portal
+2026-08-28,BLR,HYD,IndiGo,3519,633,4152,Economy,40,Airline Portal
+2026-08-28,BLR,HYD,Air India,4107,739,4846,Economy Saver,14,Airline Portal
+2026-08-28,BLR,HYD,Akasa Air,3968,714,4682,Economy,79,OTA
+2026-08-28,BLR,HYD,SpiceJet,3408,613,4021,Economy,75,OTA
+2026-08-28,DEL,MAA,IndiGo,5433,978,6411,Economy Saver,24,OTA
+2026-08-28,DEL,MAA,Air India,5935,1068,7003,Economy Saver,22,OTA
+2026-08-28,DEL,MAA,Akasa Air,4959,893,5852,Economy Saver,51,Airline Portal
+2026-08-28,DEL,MAA,SpiceJet,5232,942,6174,Economy,70,Airline Portal
+2026-08-29,DEL,BOM,IndiGo,4713,848,5561,Economy,66,OTA
+2026-08-29,DEL,BOM,Air India,5094,917,6011,Economy Saver,34,Airline Portal
+2026-08-29,DEL,BOM,Akasa Air,4424,796,5220,Economy,31,OTA
+2026-08-29,DEL,BOM,SpiceJet,4664,840,5504,Economy Saver,10,Airline Portal
+2026-08-29,DEL,BLR,IndiGo,5661,1019,6680,Economy,71,OTA
+2026-08-29,DEL,BLR,Air India,5980,1076,7056,Economy,53,OTA
+2026-08-29,DEL,BLR,Akasa Air,5187,934,6121,Economy,71,OTA
+2026-08-29,DEL,BLR,SpiceJet,5112,920,6032,Economy,71,OTA
+2026-08-29,DEL,HYD,IndiGo,4501,810,5311,Economy Saver,67,OTA
+2026-08-29,DEL,HYD,Air India,4809,866,5675,Economy,61,Airline Portal
+2026-08-29,DEL,HYD,Akasa Air,4065,732,4797,Economy Saver,32,Airline Portal
+2026-08-29,DEL,HYD,SpiceJet,3791,682,4473,Economy,34,OTA
+2026-08-29,DEL,CCU,IndiGo,5446,980,6426,Economy,66,OTA
+2026-08-29,DEL,CCU,Air India,5555,1000,6555,Economy,57,Airline Portal
+2026-08-29,DEL,CCU,Akasa Air,4548,819,5367,Economy,22,Airline Portal
+2026-08-29,DEL,CCU,SpiceJet,4778,860,5638,Economy,26,OTA
+2026-08-29,BOM,BLR,IndiGo,4220,760,4980,Economy Saver,77,Airline Portal
+2026-08-29,BOM,BLR,Air India,4631,834,5465,Economy Saver,15,Airline Portal
+2026-08-29,BOM,BLR,Akasa Air,3710,668,4378,Economy Saver,26,Airline Portal
+2026-08-29,BOM,BLR,SpiceJet,3867,696,4563,Economy,79,Airline Portal
+2026-08-29,BOM,DEL,IndiGo,5007,901,5908,Economy Saver,26,OTA
+2026-08-29,BOM,DEL,Air India,5677,1022,6699,Economy,34,OTA
+2026-08-29,BOM,DEL,Akasa Air,4442,800,5242,Economy,30,OTA
+2026-08-29,BOM,DEL,SpiceJet,4787,862,5649,Economy,27,OTA
+2026-08-29,BLR,HYD,IndiGo,4048,729,4777,Economy,73,Airline Portal
+2026-08-29,BLR,HYD,Air India,3786,681,4467,Economy,74,Airline Portal
+2026-08-29,BLR,HYD,Akasa Air,3974,715,4689,Economy Saver,71,OTA
+2026-08-29,BLR,HYD,SpiceJet,3102,558,3660,Economy Saver,34,OTA
+2026-08-29,DEL,MAA,IndiGo,5558,1000,6558,Economy Saver,80,Airline Portal
+2026-08-29,DEL,MAA,Air India,5666,1020,6686,Economy Saver,34,Airline Portal
+2026-08-29,DEL,MAA,Akasa Air,5246,944,6190,Economy Saver,37,Airline Portal
+2026-08-29,DEL,MAA,SpiceJet,4789,862,5651,Economy,78,Airline Portal
+2026-08-30,DEL,BOM,IndiGo,4899,882,5781,Economy,45,OTA
+2026-08-30,DEL,BOM,Air India,5059,911,5970,Economy Saver,79,OTA
+2026-08-30,DEL,BOM,Akasa Air,4603,829,5432,Economy Saver,77,OTA
+2026-08-30,DEL,BOM,SpiceJet,4720,850,5570,Economy Saver,31,OTA
+2026-08-30,DEL,BLR,IndiGo,5515,993,6508,Economy Saver,27,OTA
+2026-08-30,DEL,BLR,Air India,5921,1066,6987,Economy Saver,44,OTA
+2026-08-30,DEL,BLR,Akasa Air,5369,966,6335,Economy,20,Airline Portal
+2026-08-30,DEL,BLR,SpiceJet,5079,914,5993,Economy,17,Airline Portal
+2026-08-30,DEL,HYD,IndiGo,4601,828,5429,Economy Saver,75,Airline Portal
+2026-08-30,DEL,HYD,Air India,4775,860,5635,Economy,16,Airline Portal
+2026-08-30,DEL,HYD,Akasa Air,4302,774,5076,Economy Saver,16,Airline Portal
+2026-08-30,DEL,HYD,SpiceJet,3868,696,4564,Economy,9,OTA
+2026-08-30,DEL,CCU,IndiGo,5410,974,6384,Economy Saver,12,Airline Portal
+2026-08-30,DEL,CCU,Air India,5638,1015,6653,Economy,30,OTA
+2026-08-30,DEL,CCU,Akasa Air,4875,878,5753,Economy,26,Airline Portal
+2026-08-30,DEL,CCU,SpiceJet,4723,850,5573,Economy,25,Airline Portal
+2026-08-30,BOM,BLR,IndiGo,4452,801,5253,Economy Saver,50,OTA
+2026-08-30,BOM,BLR,Air India,4036,726,4762,Economy,13,Airline Portal
+2026-08-30,BOM,BLR,Akasa Air,3940,709,4649,Economy Saver,49,OTA
+2026-08-30,BOM,BLR,SpiceJet,3688,664,4352,Economy,63,OTA
+2026-08-30,BOM,DEL,IndiGo,4880,878,5758,Economy,57,Airline Portal
+2026-08-30,BOM,DEL,Air India,5391,970,6361,Economy Saver,48,Airline Portal
+2026-08-30,BOM,DEL,Akasa Air,5195,935,6130,Economy Saver,73,OTA
+2026-08-30,BOM,DEL,SpiceJet,4921,886,5807,Economy Saver,77,OTA
+2026-08-30,BLR,HYD,IndiGo,4075,734,4809,Economy Saver,63,OTA
+2026-08-30,BLR,HYD,Air India,4543,818,5361,Economy,66,Airline Portal
+2026-08-30,BLR,HYD,Akasa Air,3369,606,3975,Economy,34,OTA
+2026-08-30,BLR,HYD,SpiceJet,3315,597,3912,Economy,38,Airline Portal
+2026-08-30,DEL,MAA,IndiGo,5242,944,6186,Economy Saver,14,Airline Portal
+2026-08-30,DEL,MAA,Air India,5791,1042,6833,Economy,78,OTA
+2026-08-30,DEL,MAA,Akasa Air,5136,924,6060,Economy,68,Airline Portal
+2026-08-30,DEL,MAA,SpiceJet,4703,847,5550,Economy Saver,31,Airline Portal
+2026-08-31,DEL,BOM,IndiGo,4629,833,5462,Economy Saver,24,Airline Portal
+2026-08-31,DEL,BOM,Air India,4855,874,5729,Economy Saver,5,Airline Portal
+2026-08-31,DEL,BOM,Akasa Air,4967,894,5861,Economy Saver,68,OTA
+2026-08-31,DEL,BOM,SpiceJet,4712,848,5560,Economy Saver,55,Airline Portal
+2026-08-31,DEL,BLR,IndiGo,5478,986,6464,Economy,72,OTA
+2026-08-31,DEL,BLR,Air India,5921,1066,6987,Economy,69,OTA
+2026-08-31,DEL,BLR,Akasa Air,5280,950,6230,Economy,63,Airline Portal
+2026-08-31,DEL,BLR,SpiceJet,5159,929,6088,Economy Saver,6,Airline Portal
+2026-08-31,DEL,HYD,IndiGo,4550,819,5369,Economy,46,OTA
+2026-08-31,DEL,HYD,Air India,4806,865,5671,Economy,75,OTA
+2026-08-31,DEL,HYD,Akasa Air,4098,738,4836,Economy Saver,51,Airline Portal
+2026-08-31,DEL,HYD,SpiceJet,3973,715,4688,Economy Saver,52,OTA
+2026-08-31,DEL,CCU,IndiGo,5334,960,6294,Economy Saver,28,Airline Portal
+2026-08-31,DEL,CCU,Air India,6078,1094,7172,Economy,17,OTA
+2026-08-31,DEL,CCU,Akasa Air,5221,940,6161,Economy Saver,53,Airline Portal
+2026-08-31,DEL,CCU,SpiceJet,4758,856,5614,Economy,65,Airline Portal
+2026-08-31,BOM,BLR,IndiGo,3737,673,4410,Economy,71,OTA
+2026-08-31,BOM,BLR,Air India,4427,797,5224,Economy Saver,76,Airline Portal
+2026-08-31,BOM,BLR,Akasa Air,3846,692,4538,Economy,12,Airline Portal
+2026-08-31,BOM,BLR,SpiceJet,3867,696,4563,Economy,62,OTA
+2026-08-31,BOM,DEL,IndiGo,4729,851,5580,Economy Saver,49,Airline Portal
+2026-08-31,BOM,DEL,Air India,5231,942,6173,Economy,78,Airline Portal
+2026-08-31,BOM,DEL,Akasa Air,5016,903,5919,Economy Saver,46,OTA
+2026-08-31,BOM,DEL,SpiceJet,4745,854,5599,Economy,53,OTA
+2026-08-31,BLR,HYD,IndiGo,3987,718,4705,Economy,26,OTA
+2026-08-31,BLR,HYD,Air India,4077,734,4811,Economy Saver,14,Airline Portal
+2026-08-31,BLR,HYD,Akasa Air,3247,584,3831,Economy Saver,45,OTA
+2026-08-31,BLR,HYD,SpiceJet,3677,662,4339,Economy Saver,39,OTA
+2026-08-31,DEL,MAA,IndiGo,5916,1065,6981,Economy Saver,80,OTA
+2026-08-31,DEL,MAA,Air India,5687,1024,6711,Economy,21,Airline Portal
+2026-08-31,DEL,MAA,Akasa Air,5604,1009,6613,Economy,31,Airline Portal
+2026-08-31,DEL,MAA,SpiceJet,4764,858,5622,Economy,65,Airline Portal
